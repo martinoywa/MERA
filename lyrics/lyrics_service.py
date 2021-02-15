@@ -20,9 +20,9 @@ def lyrics_finder(out_format, callback, track, artist, apikey):
     response = requests.get(
         f"{API_URL}matcher.lyrics.get?format={out_format}&callback={callback}&"
         f"q_track={track}&q_artist={artist}&apikey={apikey}")
-    status = response.status_code
     content = json.loads(response.content.decode("utf-8")[9:-2])
-    lyrics = content["message"]["body"]["lyrics"]["lyrics_body"]
+    status = content["message"]["header"]["status_code"]
+    lyrics = content["message"]["body"]
 
     return status, lyrics
 
