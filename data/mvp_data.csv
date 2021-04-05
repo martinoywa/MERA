@@ -1,5 +1,5 @@
-valence,arousal,artist_name,track_name,Lyrics,Path
--0.6827250804970001,0.316757791845,Dark Tranquillity,Insanity's Crescendo,"Gently hold our hands
+Lyrics,Path,Quadrant
+"Gently hold our hands
 Gently hold our heads on high
 
 Aimless time in fear new hide
@@ -19,8 +19,8 @@ Shadowlife and the scent of nothingness
 
 Infinite fall of instinct
 Order of one spells deceit
-Infin",../audio/spectrograms/213754.png
--1.40040267563,1.5382289488299998,Anorexia Nervosa,Stabat mater dolorosa,"We are the Sun
+Infin",../audio/spectrograms/213754.png,1
+"We are the Sun
 We are the dead stars
 We are the black sky
 Invading your room
@@ -43,8 +43,8 @@ Vexilla regis prodeunt inferni
 
 We are the...
 Mother of suffering
-Bringer of virtue",../audio/spectrograms/216752.png
-0.815392789182,0.662457175897,Uniting Nations,Out Of Touch,"You're out of touch
+Bringer of virtue",../audio/spectrograms/216752.png,1
+"You're out of touch
 I'm out of time
 But I'm out of my head when you're not around
 You're out of touch
@@ -59,8 +59,8 @@ You're out of touch...
 
 You're out of touch
 I'm out of time
-But I'm out of my head when you're not around",../audio/spectrograms/254391.png
-1.2574603572799998,1.086515087,The Walkmen,Brandy alexander,"You finally close the door
+But I'm out of my head when you're not around",../audio/spectrograms/254391.png,0
+"You finally close the door
 You've left open wide
 Lock it from the inside
 You lay me down and count me out
@@ -68,16 +68,16 @@ You lay me down and count me out
 Watch out, it's all on you
 There's worse ways to see it, baby
 Set fire and watch it burning
-Come here, sit next me",../audio/spectrograms/266313.png
-0.3733252210800001,-0.923150665621,Duke Ellington,Caravan,"随分先に行ってしまった 光の下のキャラバン
+Come here, sit next me",../audio/spectrograms/266313.png,0
+"随分先に行ってしまった 光の下のキャラバン
 トンネルに残響 塞いだ耳 自分嫌いな自分が好き
 知らない顔で 知っている事 悟られないためのお勉強
 綺麗な言葉を 信じない様にして
 満たされるのは とても普通の事
 叫びは不要 ただ言えば良い 面倒臭がる君が面倒
 知っている様で 知らない事 知識だけで知恵が無い事
-感動にシビアな訳じゃない 感情に脂肪が付いただけ",../audio/spectrograms/283306.png
-1.0719011311700002,0.8468301807240001,Ella Fitzgerald,Lullaby Of Birdland,"Lullaby by birdland that's what I
+感動にシビアな訳じゃない 感情に脂肪が付いただけ",../audio/spectrograms/283306.png,3
+"Lullaby by birdland that's what I
 Always hear, when you sigh,
 Never in my wordland could there be words to reveal
 In a phrase how I feel
@@ -88,8 +88,8 @@ That's the kind of magic music we made with our lips
 When we kiss
 
 And there's a weepy old willow
-He really knows how to cry",../audio/spectrograms/301623.png
--1.05657234488,0.736206377828,cLOUDDEAD,Pop Song,"It's the wood man and his splintering self.
+He really knows how to cry",../audio/spectrograms/301623.png,0
+"It's the wood man and his splintering self.
 It's the wooden woman and her hollowing out
 
 Sickly Micky Mouse.
@@ -99,8 +99,8 @@ Elvis, what happened?
 
 Pop Sickle note: The lable stapled a speaker
 To the back of a sheep's throat.
-Tongue depressor with the width",../audio/spectrograms/327203.png
--1.04838590843,0.335195092328,cLOUDDEAD,Son Of A Gun,"Dying men keep rifles in cello cases,
+Tongue depressor with the width",../audio/spectrograms/327203.png,1
+"Dying men keep rifles in cello cases,
 Known with a beer as the deer eraser.
 They dress their boys in bright orange
 And leave their daughters at home,
@@ -109,8 +109,8 @@ Stripping meat, stretching skin for their musical men.
 The makers of guns will never go hungry.
 The makers of guns will never fill up.
 May their children always play murder weapon since stick.
-",../audio/spectrograms/327207.png
-1.54125682076,1.70416465317,Boney M,Rasputin,"Hey, hey, hey, hey, hey, hey, hey, hey
+",../audio/spectrograms/327207.png,1
+"Hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey
@@ -128,8 +128,8 @@ Women would desire
 Ra-ra, Rasputin
 Lover of the Russian queen
 There was a cat that really was gone
-Ra ra Rasputin",../audio/spectrograms/364962.png
--0.981530010788,0.62097324981,Leona Lewis,Better in time,"Oooh oooh
+Ra ra Rasputin",../audio/spectrograms/364962.png,0
+"Oooh oooh
 Hmmmmh
 
 It's been the longest winter without you
@@ -148,8 +148,8 @@ All I know is Imma be OK
 
 Thought I couldn't live without you
 It's gonna hurt when it heals too (Oh yeah)
-It'll all get better in time",../audio/spectrograms/365070.png
-0.00766439314399,0.7915182792759999,Leona Lewis,I Will Be,"There's nothing I could say to you
+It'll all get better in time",../audio/spectrograms/365070.png,1
+"There's nothing I could say to you
 Nothing I could ever do to make you see
 What you mean to me
 All the pain the tears I cried
@@ -172,8 +172,8 @@ To get you through the day
 And make everything OK
 
 I thought that I had everything
-I didn't know what life could bring",../audio/spectrograms/365073.png
--0.569752257537,0.0319014993861,Leona Lewis,Bleeding Love,"Closed off from love, I didn't need the pain
+I didn't know what life could bring",../audio/spectrograms/365073.png,0
+"Closed off from love, I didn't need the pain
 Once or twice was enough and it was all in vain
 Time starts to pass, before you know it you're frozen, ooh
 But somethin' happened for the very first time with you
@@ -192,8 +192,8 @@ Keep bleeding
 Keep, keep bleeding love
 You cut me open
 Uuh ooh
-Trying hard not to hear, but they talk so loud",../audio/spectrograms/365137.png
--1.70330082414,-0.6281538578970001,Mario,How Do I Breathe,"How do I breathe, yeah?
+Trying hard not to hear, but they talk so loud",../audio/spectrograms/365137.png,1
+"How do I breathe, yeah?
 How do I breathe, yeah?
 
 It feels so different being here
@@ -220,8 +220,8 @@ When your love brought me to the light?
 Where do I go
 When your heart's where I lay my head?
 When you're not with me
-How do I breathe?",../audio/spectrograms/365268.png
--1.05657234488,0.736206377828,Great Lake Swimmers,The Man With No Skin,"If I could crawl into a shell
+How do I breathe?",../audio/spectrograms/365268.png,2
+"If I could crawl into a shell
 Then I would a mile away
 Things are heavy enough already
 And I really do think that's
@@ -243,8 +243,8 @@ And the man with no skin
 I would not let him
 Would not let him sign off
 'Cause nobody wants to see
-A beating heart",../audio/spectrograms/519036.png
-0.449731961246,-2.0754819457900004,Great Lake Swimmers,I Will Never See the Sun,"I will never see the sun
+A beating heart",../audio/spectrograms/519036.png,1
+"I will never see the sun
 Spadina, St. George, Bay, and Yonge
 One for nothing, all for one
 Spadina, St. George, Bay and Yonge
@@ -254,8 +254,8 @@ Weren't you born with muddy feet?
 Hoarse, in high tops, totally lost
 Those two streets will never meet
 
-I will never see the sun",../audio/spectrograms/519039.png
-0.957291020918,0.390506993776,Great Lake Swimmers,Bodies and Minds,"O hold me O holy O golden O grace
+I will never see the sun",../audio/spectrograms/519039.png,3
+"O hold me O holy O golden O grace
 Down here in fear, down where none can hear
 Any whisper, any word
 
@@ -269,14 +269,14 @@ No sudden moves
 Don't wanna, you wanna
 Don't wanna, you wanna
 Don't wanna, you wanna
-Don't wanna, you wanna",../audio/spectrograms/519111.png
-0.766274170504,-2.11235654676,Great Lake Swimmers,Falling Into the Sky,"Breathing this poison, alive but near death
+Don't wanna, you wanna",../audio/spectrograms/519111.png,0
+"Breathing this poison, alive but near death
 Under the water, and holding my breath
 But we were made to drink in the earth
 Its river and gutters, its mountains of worth
 
-Fur and feathers, and leather, and scales",../audio/spectrograms/519113.png
-0.13500896008500002,-1.50392563083,Great Lake Swimmers,Long Into The Evening,"It's only human to wonder why
+Fur and feathers, and leather, and scales",../audio/spectrograms/519113.png,3
+"It's only human to wonder why
 It's only animal to do it
 It's only animal to run along the rocks
 And move along instead of talk
@@ -286,8 +286,8 @@ And how I wish I could talk to you now
 And the words tumble out of your mouth
 Like apples from a wild tree
 And mine they spy out cautiously
-Like a creature from its cave",../audio/spectrograms/519117.png
--1.72786013348,-1.10752367045,MORS PRINCIPIUM EST,Fragile Flesh,"We feel the anger rise before the wake
+Like a creature from its cave",../audio/spectrograms/519117.png,3
+"We feel the anger rise before the wake
 We march against the wars of hate
 The wratful demons come to brake your fate
 You're living in a lie, you won't be safe
@@ -298,8 +298,8 @@ The fragile flesh of the unborn child
 
 Why won't you listen to me? Just listen to me
 Why can't you hear the screams? The screams so loud
-That all the salt of the tears that they all will cry",../audio/spectrograms/520083.png
--0.780962317853,-0.789480237121,The Bad Plus,Smells Like Teen Spirit,"Load up on guns and bring your friends.
+That all the salt of the tears that they all will cry",../audio/spectrograms/520083.png,2
+"Load up on guns and bring your friends.
 It's fun to lose and to pretend.
 She's overbored and self assured.
 Oh no, I know a dirty word.
@@ -315,12 +315,12 @@ I feel stupid and contagious.
 Here we are now, entertain us.
 A mullato, an albino, a mosquito, my libido.
 Yay, yay, yay,
-",../audio/spectrograms/530652.png
--1.9352498567900005,-0.655809808621,Charley Pride,I Can't Believe That You've Stopped Loving Me,"Tomorrow I'll say happy birthday darling
+",../audio/spectrograms/530652.png,2
+"Tomorrow I'll say happy birthday darling
 And surprise you with a gift when I come home
 Then mine forgetful arms will reach out for you
-I can't forget you just because you're gone",../audio/spectrograms/531834.png
--1.05657234488,0.736206377828,Kris Kristofferson,Me and Bobby McGee,"If it sounds country man
+I can't forget you just because you're gone",../audio/spectrograms/531834.png,2
+"If it sounds country man
 That's what it is
 It's a country song, yeah, okay
 One, two, three, four
@@ -334,8 +334,8 @@ Took us all away to New Orleans
 I took my harpoon out of my dirty red bandana
 And was blowin' sad while Bobby sang the blues
 With them windshield wipers slappin' time
-And Bobby clappin' hands, we finally sang up",../audio/spectrograms/531935.png
--1.48226704009,-0.440707969658,Kris Kristofferson,Sunday Mornin' Comin' Down,"Well, I woke up Sunday morning
+And Bobby clappin' hands, we finally sang up",../audio/spectrograms/531935.png,1
+"Well, I woke up Sunday morning
 With no way to hold my head that didn't hurt
 And the beer I had for breakfast wasn't bad
 So I had one more for dessert
@@ -350,8 +350,8 @@ Cigarettes and songs that I'd been pickin'
 But I lit my first and watched a small kid
 Cussin' at a can that he was kicking
 
-Then I crossed the empty street",../audio/spectrograms/531937.png
--1.74423300637,1.3354186435200002,Diamond Rio,You're Gone,"I said, Hello I think I'm broken.
+Then I crossed the empty street",../audio/spectrograms/531937.png,2
+"I said, Hello I think I'm broken.
 And though I was only jokin'
 It took me by surprise when you agreed.
 I was tryin to be clever
@@ -363,8 +363,8 @@ You knew how to heal that pain no medicine can fix.
 And I bless the day I met you.
 And I thank God that he let you
 Lay beside me for a moment that lives on.
-And the good news is I'm better for the time we spent together.",../audio/spectrograms/531993.png
--1.17118245513,-0.563623306207,Savage Garden,Gunning Down Romance,"Love and other moments are just chemical reactions in your brain
+And the good news is I'm better for the time we spent together.",../audio/spectrograms/531993.png,1
+"Love and other moments are just chemical reactions in your brain
 In your brain
 And feelings of aggression are the absence of the love drug
 In your veins
@@ -384,8 +384,8 @@ Pah pah
 Love and other socially acceptable emotions are morphine
 They're morphine
 Cleverly concealin' primal urges often felt but rarely seen
-Rarely seen",../audio/spectrograms/532345.png
--1.9352498567900005,-0.655809808621,Oasis,Don't Go Away,"Cold and frosty morning
+Rarely seen",../audio/spectrograms/532345.png,2
+"Cold and frosty morning
 There's not a lot to say
 About the things caught in my mind
 And as the day was dawning
@@ -406,8 +406,8 @@ Just to make things right
 
 Damn my situation
 And the games I have to play
-With all the things caught in my mind",../audio/spectrograms/532439.png
--1.70057201199,1.84244440679,Savage Garden,Break Me Shake Me,"I never thought
+With all the things caught in my mind",../audio/spectrograms/532439.png,2
+"I never thought
 I'd change my opinion again
 But you moved me in a way
 
@@ -433,8 +433,8 @@ Then you will be alone
 Just break me, shake me
 
 Hate me, take me over
-When the madness stops",../audio/spectrograms/532577.png
-0.0158508295903,0.390506993776,Savage Garden,I Knew I Loved You,"Maybe it's intuition
+When the madness stops",../audio/spectrograms/532577.png,1
+"Maybe it's intuition
 But somethings you just don't question
 Like in your eyes, I see my future in an instant
 And there it goes, I think I've found my best friend
@@ -448,8 +448,8 @@ I have been waiting all my life
 
 There's just no rhyme or reason
 Only a sense of completion
-And in your eyes, I see the missing pieces",../audio/spectrograms/532605.png
-1.0719011311700002,0.8468301807240001,Savage Garden,Crash And Burn,"When you feel all alone
+And in your eyes, I see the missing pieces",../audio/spectrograms/532605.png,0
+"When you feel all alone
 And the world has turned its back on you
 Give me a moment please
 To tame your wild, wild heart
@@ -473,8 +473,8 @@ And a loyal friend is hard to find
 You're caught in a one-way street
 With the monsters in your head
 When hopes and dreams are far away
-And you feel like you can't face the day",../audio/spectrograms/532607.png
-1.2137993629,1.26781520842,Savage Garden,The Animal Song,"When superstars and cannonballs are running through your head
+And you feel like you can't face the day",../audio/spectrograms/532607.png,0
+"When superstars and cannonballs are running through your head
 A television freak show cops and robbers everywhere
 Subway makes me nervous, people pushing me too far
 I've got to break away
@@ -501,8 +501,8 @@ Would you like to take my hand, yeah
 Careless and free like animals
 I want to live
 I want to run through the jungle
-The wind in my hair and the sand at my feet",../audio/spectrograms/532609.png
--0.7797928269329999,0.180453463273,Savage Garden,Two Beds And A Coffee Machine,"And she takes another step
+The wind in my hair and the sand at my feet",../audio/spectrograms/532609.png,0
+"And she takes another step
 Slowly she opens the door
 Check that he is sleeping
 Pick up all the broken glass
@@ -517,8 +517,8 @@ Another ditch in the road You keep moving
 Another stop sign
 You keep moving on
 And the years go by so fast
-",../audio/spectrograms/532611.png
--0.431674362809,0.0955101860516,Savage Garden,I Don't Care,"I ride this train
+",../audio/spectrograms/532611.png,1
+"I ride this train
 In the windswept afternoon
 And the sunlight warms the faces
 Of the faithless who are waiting
@@ -535,15 +535,15 @@ But I don't care, no I don't care
 
 I ride this train
 
-In a dream-like state of mind",../audio/spectrograms/533010.png
--1.4877246643900002,-0.360813000897,Rory Gallagher,Moonchild,"You are a moonchild and pretty soon child
+In a dream-like state of mind",../audio/spectrograms/533010.png,1
+"You are a moonchild and pretty soon child
 I've got that feeling
 That I'm gonna make you smile forever
 If I can.
 Just give me a sign and I'll show you my plan
 You are a blue child, forever true child
-You know I'll try to paint the skies blue forever",../audio/spectrograms/533620.png
--1.5182873604499998,0.450428220345,Kelly Clarkson,Hear Me,"Hear me... Hear me...
+You know I'll try to paint the skies blue forever",../audio/spectrograms/533620.png,2
+"Hear me... Hear me...
 
 You gotta be out there
 You gotta be somewhere
@@ -561,8 +561,8 @@ I need you to see, I'm screaming for you to please
 Hear me, hear me
 
 Can you hear me?
-",../audio/spectrograms/534083.png
-0.979121518109,0.588707973965,Sly & The Family Stone,Stand!,"Stand, in the end, you'll still be you
+",../audio/spectrograms/534083.png,1
+"Stand, in the end, you'll still be you
 One that's done all the things you set out to do
 Stand, there's a cross for you to bear
 Things to go through if you're goin' anywhere
@@ -575,8 +575,8 @@ You have you to complete and there is no deal
 Stand, stand, stand
 (Everybody, yeah)
 Stand, stand, stand
-",../audio/spectrograms/534503.png
-1.54125682076,1.70416465317,Sly & The Family Stone,Somebody'S Watching You,"Pretty, pretty, pretty as a picture
+",../audio/spectrograms/534503.png,0
+"Pretty, pretty, pretty as a picture
 Witty, witty, witty as you can be
 Blind 'cause your eyes see only glitter
 Closed to the things that make you free
@@ -591,8 +591,8 @@ Somebody's watching you
 Somebody's watching you
 
 Games are to be played with toys, et cetera
-Love is to be made when you're for real",../audio/spectrograms/534506.png
-1.11374291745,0.785372512445,Sly & The Family Stone,Everyday People,"Sometimes I'm right and I can be wrong
+Love is to be made when you're for real",../audio/spectrograms/534506.png,0
+"Sometimes I'm right and I can be wrong
 My own beliefs are in my song
 The butcher, the banker, the drummer and then
 Makes no difference what group I'm in
@@ -605,8 +605,8 @@ Different strokes for different folks
 And so on and so on and scooby dooby dooby
 
 Ooh sha sha
-We got to live together",../audio/spectrograms/534508.png
-1.18105361712,1.39073054497,Sly & The Family Stone,Dance To The Music,"Get up and dance to the music!
+We got to live together",../audio/spectrograms/534508.png,0
+"Get up and dance to the music!
 Get on up and dance to the funky music!
 Dum-dumm du-du-du-du-du-dum-dumm
 Du-du-du-du-du-dum-dumm - du-du-du-du-du-dum-dumm
@@ -615,8 +615,8 @@ Hey Greg!
 What?
 All we need is a drummer
 For people who only need a beat, yeah!
-",../audio/spectrograms/534574.png
--0.568660732678,-0.049222622738,Mario Vazquez,Gallery,"God broke the mold
+",../audio/spectrograms/534574.png,0
+"God broke the mold
 When He made this one I know
 She's breathtaking, but so much more
 She walks in the room, your lungs close
@@ -642,15 +642,15 @@ In his gallery
 Just not fair
 And it's tearing me apart
 You're just another priceless work of art
-In his gallery",../audio/spectrograms/534752.png
--1.22030107381,0.644019875414,Prefab Sprout,Bonny,"I spend the days with my vanity
+In his gallery",../audio/spectrograms/534752.png,2
+"I spend the days with my vanity
 I'm lost in heaven and I'm lost to earth
 Didn't give you minutes not even moments
 All my life in a tower of foil
 Shaded feelings, don't believe you
 When you were there before my eyes
-No one planned it took it for granted",../audio/spectrograms/535166.png
--1.26805528641,-0.0128089542846,Prefab Sprout,When Love Breaks Down,"My love and I, we work well together
+No one planned it took it for granted",../audio/spectrograms/535166.png,1
+"My love and I, we work well together
 But often we're apart
 Absence makes the heart lose wager
 'Til love breaks down, love breaks down
@@ -664,8 +664,8 @@ When love breaks down
 The things you do
 To stop the truth from hurting you
 When love breaks down
-The lies we tell",../audio/spectrograms/535168.png
-0.3733252210800001,-0.923150665621,Toni Braxton,You're Makin' Me High,"I'll always think of you
+The lies we tell",../audio/spectrograms/535168.png,2
+"I'll always think of you
 Inside of my private thoughts
 I can imagine you
 Touching my private parts
@@ -685,8 +685,8 @@ I can touch the sky
 You make my temperature rise
 Baby, you're makin' me high
 Baby, baby, baby, baby
-",../audio/spectrograms/535298.png
-0.249164268311,-0.280149811285,Toni Braxton,Breathe Again,"If I never feel you in my arms again
+",../audio/spectrograms/535298.png,3
+"If I never feel you in my arms again
 If I never feel your tender kiss again
 If I never hear ""I love you"" now and then
 
@@ -710,8 +710,8 @@ And blow my heart away
 And I can't stop carin' about
 
 About the apple of my eye
-And I can't stop doin' without",../audio/spectrograms/535299.png
-0.909991610338,0.48115705448,Collie Buddz,Blind To You,"Yuh know, hey! Yeah, you know!
+And I can't stop doin' without",../audio/spectrograms/535299.png,3
+"Yuh know, hey! Yeah, you know!
 Wha me say! Fuckin' haters, you know, hey!
 
 I'm blind to you haters
@@ -739,8 +739,8 @@ Praise the Almighty, don't go astray
 Said I'm blind to you fuckin' haters
 Can't touch me, bullshit creators
 Me say where is the love, lately
-Ask you how the world ah run so",../audio/spectrograms/535419.png
--1.9352498567900005,-0.655809808621,Paul Potts,Caruso,"Qui dove il mare luccica
+Ask you how the world ah run so",../audio/spectrograms/535419.png,0
+"Qui dove il mare luccica
 E tira forte il vento
 Sulla vecchia terrazza
 Davanti al golfo di Surriento
@@ -776,8 +776,8 @@ Ma due occhi che ti quardano
 Cosi vicini e veri
 Ti fan scordare le parole
 Confondono i pensierei
-Cos diventa tutto piccolo",../audio/spectrograms/535901.png
-0.957291020918,0.390506993776,MGMT,Time To Pretend,"I'm feeling rough, I'm feeling raw
+Cos diventa tutto piccolo",../audio/spectrograms/535901.png,2
+"I'm feeling rough, I'm feeling raw
 I'm in the prime of my life
 Let's make some music, make some money
 Find some models for wives
@@ -793,8 +793,8 @@ Yeah, it's overwhelming, but what else can we do?
 Get jobs in offices?
 And wake up for the morning commute?
 
-Forget about our mothers and our friends",../audio/spectrograms/536481.png
-0.416986215461,0.109338161414,MGMT,The Youth,"This is a call to arms
+Forget about our mothers and our friends",../audio/spectrograms/536481.png,0
+"This is a call to arms
 To live and love and sleep together
 We could flood the streets
 With love or light or heat, whatever
@@ -811,8 +811,8 @@ The youth are starting to change; are you
 Starting to change, are you?
 Together, together, together, together
 Together, together, together
-",../audio/spectrograms/536483.png
-0.957291020918,0.390506993776,MGMT,Electric Feel,"All along the Western front
+",../audio/spectrograms/536483.png,0
+"All along the Western front
 People line up to receive
 She got the power in her hand
 To shock you like you won't believe
@@ -827,8 +827,8 @@ I said, ""Ooh, girl!""
 ""Turn me on with your electric feel""
 
 I said, ""Ooh, girl!""
-""Shock me like an electric eel""",../audio/spectrograms/536484.png
-0.815392789182,0.662457175897,MGMT,4th Dimensional Transition,"I feel your racing heart
+""Shock me like an electric eel""",../audio/spectrograms/536484.png,0
+"I feel your racing heart
 My liquid silver arms extended
 These waves aren't far apart
 Black gold in claw foot tubs unchanging
@@ -838,8 +838,8 @@ There's light beneath your eyes
 New overtones in view
 Endless form, endless time
 
-If what they say is true",../audio/spectrograms/536486.png
-0.3733252210800001,-0.923150665621,MGMT,The Handshake,"I just shook the handshake
+If what they say is true",../audio/spectrograms/536486.png,0
+"I just shook the handshake
 I just sealed the deal
 I'll try not to let them
 Take everything they can steal
@@ -856,8 +856,8 @@ I was a loner
 I was just waiting by myself
 When you, warped temptress
 Rose to bring me happiness and wealth
-Black tears, black smile, black credit cards and shoes",../audio/spectrograms/536489.png
-0.815392789182,0.662457175897,MGMT,Future Reflections,"And there were future reflections
+Black tears, black smile, black credit cards and shoes",../audio/spectrograms/536489.png,3
+"And there were future reflections
 On the face and the hands
 On a green colored island
 On a primitive man
@@ -871,8 +871,8 @@ Red like a marker
 So my tribe, with my knife
 Cut the heart from a lonely life
 
-I saw patterns on floorboards",../audio/spectrograms/536490.png
-0.3733252210800001,-0.923150665621,Donovan,Season Of The Witch,"When I look out my window
+I saw patterns on floorboards",../audio/spectrograms/536490.png,0
+"When I look out my window
 Many sights to see
 And when I look in my window
 So many different people to be
@@ -888,8 +888,8 @@ Must be the season of the witch
 
 When I look over my shoulder
 What do you think I see?
-Some other cat lookin' over",../audio/spectrograms/537540.png
-1.0719011311700002,0.8468301807240001,Annie Lennox,Through The Glass Darkly,"Ooooooooh
+Some other cat lookin' over",../audio/spectrograms/537540.png,3
+"Ooooooooh
 I'm caught up in the middle
 But I'll take it to the end
 It's coming back together
@@ -906,16 +906,16 @@ Yeaaaah
 I've tried pretending
 But it drops off my feet
 I don't know what it's coming to
-But I'm looking through the glass darkly",../audio/spectrograms/538323.png
--1.04019947199,-0.06581619317250001,Annie Lennox,Lost,"This is the sound of the planes in the night
+But I'm looking through the glass darkly",../audio/spectrograms/538323.png,0
+"This is the sound of the planes in the night
 Coming out of the darkness and into the light
 Shining alarmingly, curiously bright
 This is the sound of those murderous drums
 The marching of footsteps the twisting of thumbs
 Over and over again he recalls
 
-We're lost",../audio/spectrograms/538324.png
--1.05657234488,0.736206377828,Annie Lennox,Fingernail Moon,"Fingernail moon... up in the sky
+We're lost",../audio/spectrograms/538324.png,2
+"Fingernail moon... up in the sky
 Come out and see me
 See me some time
 Cuz I'm here alone
@@ -929,8 +929,8 @@ Common tell me the truth...
 
 Blah blah blah...
 You cut like a knife
-It does me no favors...",../audio/spectrograms/538328.png
--1.04019947199,-0.06581619317250001,The Calling,Somebody Out There,"Well the scene begins, a little girl is crying
+It does me no favors...",../audio/spectrograms/538328.png,1
+"Well the scene begins, a little girl is crying
 And the light in the hallway is dim
 And the sits right back, thinks of the reason
 Why nothing will fall into place
@@ -945,8 +945,8 @@ And begging please
 She wonders if there's somebody out there
 To make things wrong
 To make things right
-It might be",../audio/spectrograms/538606.png
-1.54125682076,1.70416465317,Boys Like Girls,The Great Escape,"Paper bags and plastic hearts
+It might be",../audio/spectrograms/538606.png,2
+"Paper bags and plastic hearts
 All our belongings in shopping carts
 It's goodbye, but we got one more night
 Let's get drunk and ride around
@@ -961,8 +961,8 @@ Watch it burn, let it die
 'Cause we are finally free, tonight
 
 Tonight will change our lives
-It's so good to be by your side",../audio/spectrograms/538948.png
-1.14285024704,1.07115066993,Boys Like Girls,Five Minutes To Midnight,"Brown eyes and lungs are filled up with smoke
+It's so good to be by your side",../audio/spectrograms/538948.png,0
+"Brown eyes and lungs are filled up with smoke
 Fast lives are stuck in the undertoe
 But you know the places I wanna go
 
@@ -993,8 +993,8 @@ We'll make the clock stop
 Make your heart drop
 And come alive
 We could
-Pack up",../audio/spectrograms/538950.png
-1.54125682076,1.70416465317,Boys Like Girls,Hero/Heroine,"It's too late baby, there's no turning around
+Pack up",../audio/spectrograms/538950.png,0
+"It's too late baby, there's no turning around
 I've got my hands in my pocket and my head in a cloud
 This is how I do
 When I think about you
@@ -1009,8 +1009,8 @@ But not this time
 Now I'm running and screaming
 I feel like a hero and you are my heroine
 
-I won't try to philosophize",../audio/spectrograms/538951.png
--1.31853831116,0.957453983621,Boys Like Girls,Heels Over Head,"I got your runaway smile in my piggybank baby
+I won't try to philosophize",../audio/spectrograms/538951.png,0
+"I got your runaway smile in my piggybank baby
 Gonna cash it right in for a new Mercedes
 You were worth the hundred thousand miles
 But you couldn't stay awhile
@@ -1035,8 +1035,8 @@ And I'm running out of time
 I've got your hair on my pillow
 And your smell in my sheets
 And it makes me think about you
-With the sand in your feet",../audio/spectrograms/538961.png
-0.5943590051309999,-0.130346744862,Groove Armada,Song 4 Mutya (Out Of Control),"(Outta control)
+With the sand in your feet",../audio/spectrograms/538961.png,1
+"(Outta control)
 
 You're gone, now, I feel fine
 17 months, yeah I feel fine
@@ -1050,8 +1050,8 @@ So I pulled up to the red light, sittin' here in my car
 I look up to my right, and there you are
 
 Sat there with some new girl, what is this?
-(Don't panic, panic, Mutya don't drive erratic)",../audio/spectrograms/539107.png
-0.032223702483,-0.512920729879,Duran Duran,Nite-Runner,"You're nocturnal, only come out at night
+(Don't panic, panic, Mutya don't drive erratic)",../audio/spectrograms/539107.png,3
+"You're nocturnal, only come out at night
 And I'm learning all the ways you wanna ride
 'Cause you're on the roam
 But not until the darkness arrives
@@ -1069,8 +1069,8 @@ Something tells me I'm in for a ride
 (Right into your nighttime world)
 
 'Cause I'm a nite runner, I think I'm falling for you
-Nite runner, you got a spell that put me under",../audio/spectrograms/539211.png
-1.17832480497,1.18331091453,Britney Spears,...Baby One More Time,"Oh, baby, baby
+Nite runner, you got a spell that put me under",../audio/spectrograms/539211.png,3
+"Oh, baby, baby
 Oh, baby, baby
 
 Oh, baby, baby, how was I supposed to know
@@ -1085,8 +1085,8 @@ My loneliness is killing me (And I)
 I must confess I still believe (Still believe)
 When I'm not with you I lose my mind
 Give me a sign, hit me baby one more time
-",../audio/spectrograms/540175.png
-1.0719011311700002,0.8468301807240001,Britney Spears,Sometimes,"You tell me you're in love with me
+",../audio/spectrograms/540175.png,0
+"You tell me you're in love with me
 Like you can't take your pretty eyes away from me
 It's not that I don't wanna stay
 But every time you come too close I move away
@@ -1102,8 +1102,8 @@ But all I really want is to hold you tight
 Treat you right, be with you day and night
 Baby, all I need is time
 
-I don't wanna be so shy uh oh",../audio/spectrograms/540177.png
-1.03642657323,0.874486131448,Britney Spears,Soda Pop,"Ooh-Ooh
+I don't wanna be so shy uh oh",../audio/spectrograms/540177.png,0
+"Ooh-Ooh
 Ah, here we go now, oh
 
 Like a great boy, all my other women are insoles
@@ -1129,8 +1129,8 @@ Open that soda pop, bop-a shu-bop shu-bop
 The clock is tickin' and we can't stop
 
 Ooh-ooh, we have a plan, we have a definite plan
-To level the vibes (Vibes)",../audio/spectrograms/540178.png
--0.869193910665,0.5088130052040001,Britney Spears,Heart,"Heart, I know I've been hard on you
+To level the vibes (Vibes)",../audio/spectrograms/540178.png,0
+"Heart, I know I've been hard on you
 I'm sorry for the things I've put you through
 Before you start to break on me or ask for sympathy
 I need to make you see
@@ -1140,8 +1140,8 @@ To say that what I feel is really love
 There's just one way to learn, sometimes we'll get hurt
 And right now it's our turn
 
-Give it time, help me through",../audio/spectrograms/540180.png
-1.30657897596,1.27549741695,Britney Spears,I Will Be There,"Oh yeah
+Give it time, help me through",../audio/spectrograms/540180.png,1
+"Oh yeah
 
 You don't have to say what's on your mind
 'Cause I know where you've been
@@ -1161,8 +1161,8 @@ And I will be there
 When you're feeling low
 Baby, let me know
 And I will be there
-",../audio/spectrograms/540181.png
-0.722613176124,-0.0381602424484,Britney Spears duet with Don Phillip,I Will Still Love You,"El tiempo puede separarnos, pero te amaré todavía, lo prometo
+",../audio/spectrograms/540181.png,0
+"El tiempo puede separarnos, pero te amaré todavía, lo prometo
 
 Y cuando las estrellas, estrellas estén cayendo
 Seguiré llamando.
@@ -1183,8 +1183,8 @@ Y cuando tus sueños se estén decolorando
 Estaré esperando
 Te amaré todavía
 
-Tu eras mi brisa de verano, mi sol de invierno, mi",../audio/spectrograms/540182.png
--1.08058589179,0.08536967078610001,Britney Spears,E-Mail My Heart,"Forever
+Tu eras mi brisa de verano, mi sol de invierno, mi",../audio/spectrograms/540182.png,3
+"Forever
 
 It's been hours seems like days, since you went away
 And all I do is check the screen to see if you're okay
@@ -1200,8 +1200,8 @@ I know you're out there and I know that you still care
 (I know you care)
 E-mail me back and say our love will stay alive
 Forever, E-mail my heart
-",../audio/spectrograms/540185.png
-0.815392789182,0.662457175897,Britney Spears,I'm A Slave 4 U,"I know I may be young
+",../audio/spectrograms/540185.png,1
+"I know I may be young
 But
 I've got feelings too
 And I need to do
@@ -1235,8 +1235,8 @@ I'm a slave 4 U
 I cannot hold it
 I cannot control it
 I'm a slave 4 U
-I won't deny it",../audio/spectrograms/540191.png
-0.815392789182,0.662457175897,Britney Spears,Lonely,"To think I'm so naive
+I won't deny it",../audio/spectrograms/540191.png,0
+"To think I'm so naive
 How dare you play with me?
 I gave you heart and soul, yeah
 Tell me baby, please
@@ -1258,8 +1258,8 @@ You thought that I would be lonely
 I don't wanna let you back in
 
 Don't tell me how to feel, or say that you're for real
-My mind's made up, I'm cool without ya",../audio/spectrograms/540193.png
-1.30112135166,1.4952085810299998,Britney Spears,Anticipating,"Top down, on the strip
+My mind's made up, I'm cool without ya",../audio/spectrograms/540193.png,0
+"Top down, on the strip
 Looking in the mirror and I'm checking out my lipstick
 Girlfriends up in the back
 We're out for an all night
@@ -1281,8 +1281,8 @@ You're feeling this right, let's do this tonight
 Step up, baby, don't be shy
 I know you're feeling me, 'cause you're given me the eye
 And I don't wanna play around
-Baby, watch me move",../audio/spectrograms/540196.png
--1.16572483083,-0.128042082302,Britney Spears,I Run Away,"You took your love away too fast
+Baby, watch me move",../audio/spectrograms/540196.png,0
+"You took your love away too fast
 Left no chance to say, ""Look back""
 And now I know the truth, it makes it easier
 Maybe when time goes by, I'll understand
@@ -1293,8 +1293,8 @@ Open my eyes, look deep inside
 I run away, I run away, I run away
 
 You threw it all away
-So blind (So blind)",../audio/spectrograms/540203.png
-0.8290368499259999,-0.946197291224,Blood_ Sweat & Tears,God Bless The Child,"Them that's got shall get,
+So blind (So blind)",../audio/spectrograms/540203.png,2
+"Them that's got shall get,
 Them that's not shall lose
 So the Bible says,
 And it still is news
@@ -1308,8 +1308,8 @@ Empty pockets don't,
 Ever make the grade
 ""Cause mama may have,
 And papa may have
-God bless the child that's got his own,",../audio/spectrograms/540588.png
-1.28474847877,1.43682379617,Willie Nelson,On The Road Again,"On the road again
+God bless the child that's got his own,",../audio/spectrograms/540588.png,3
+"On the road again
 Just can't wait to get on the road again
 The life I love is makin' music with my friends
 And I can't wait to get on the road again
@@ -1318,8 +1318,8 @@ On the road again
 Goin' places that I've never been
 Seein' things that I may never see again
 And I can't wait to get on the road again
-",../audio/spectrograms/540732.png
--1.68829235732,1.07960109932,Three Days Grace,I Hate Everything About You,"Every time we lie awake
+",../audio/spectrograms/540732.png,0
+"Every time we lie awake
 After every hit we take
 Every feeling that I get
 But I haven't missed you yet
@@ -1332,8 +1332,8 @@ Only when I stop to think about it
 
 I hate everything about you
 Why do I love you?
-I hate everything about you",../audio/spectrograms/541012.png
--1.70057201199,1.84244440679,Three Days Grace,Home,"I'll be coming home just to be alone
+I hate everything about you",../audio/spectrograms/541012.png,1
+"I'll be coming home just to be alone
 'Cause I know you're not there
 And I know that you don't care
 I can hardly wait to leave this place
@@ -1349,8 +1349,8 @@ This house is not a
 Home, home
 This house is not a home
 
-By the time you come home I'm already stoned",../audio/spectrograms/541013.png
--1.58596190174,0.62097324981,Three Days Grace,Let You Down,"Trust me
+By the time you come home I'm already stoned",../audio/spectrograms/541013.png,1
+"Trust me
 There's no need to fear
 Everyone's here
 Waiting for you to finally be one of us
@@ -1363,8 +1363,8 @@ Finally believe in me
 I will let you down, I'll
 Let you down, I'll
 When you finally trust me
-Finally believe in me",../audio/spectrograms/541016.png
--1.70057201199,1.84244440679,Three Days Grace,Born Like This,"It's not what I took from you
+Finally believe in me",../audio/spectrograms/541016.png,1
+"It's not what I took from you
 It's not what I stole
 We are born like this
 Like this
@@ -1386,8 +1386,8 @@ Someone's gun is laughing
 Hey, it's not what I gave to you
 It's not what I stole
 We are born like this (Like this)
-",../audio/spectrograms/541020.png
--1.65691101761,0.104728836293,Three Days Grace,Take Me Under,"Now it seems I'm fading
+",../audio/spectrograms/541020.png,1
+"Now it seems I'm fading
 All my dreams are not worth saving
 I've done my share of waiting
 And I've still got nowhere else to go
@@ -1403,8 +1403,8 @@ Push me under
 Pull me further
 Take me all the way, take me all the way
 Push me under
-Pull me further",../audio/spectrograms/541025.png
-0.815392789182,0.662457175897,Switchfoot,Redemption,"Four am, two hours to go
+Pull me further",../audio/spectrograms/541025.png,1
+"Four am, two hours to go
 I'm wearing out a lonely glow
 I miss you more than I can know
 Here I am, here I am
@@ -1415,8 +1415,8 @@ Whose scars are bigger than these doubts of mine
 I'll fit all of these monstrosities inside
 It'll come alive, come alive
 
-With my fist down at your feet",../audio/spectrograms/541101.png
-1.17668751768,0.975891284103,Electric Light Orchestra,Mr Blue Sky,"Morning! Today's forecast calls for blue skies
+With my fist down at your feet",../audio/spectrograms/541101.png,0
+"Morning! Today's forecast calls for blue skies
 
 The sun is shining in the sky
 There ain't a cloud in sight
@@ -1437,8 +1437,8 @@ Please tell us why
 You had to hide away for so long (so long)
 Where did we go wrong?
 Mr. Blue Sky
-Please tell us why",../audio/spectrograms/541393.png
-0.815392789182,0.662457175897,Kelly Rowland,Work,"This ain't gon' be easy
+Please tell us why",../audio/spectrograms/541393.png,0
+"This ain't gon' be easy
 Uh
 You got it? You got it?
 Put it in
@@ -1472,8 +1472,8 @@ Do it, baby, do it, do it, baby, get it
 (Go hard)
 Check it, baby, get it, baby, check it, baby, get it
 (Work)
-Do it, baby, do it, do it, baby, get it",../audio/spectrograms/541403.png
-1.2137993629,1.26781520842,Dolly Parton,9 To 5,"Tumble outta bed
+Do it, baby, do it, do it, baby, get it",../audio/spectrograms/541403.png,0
+"Tumble outta bed
 And I stumble to the kitchen
 Pour myself a cup of ambition
 And yawn and stretch and try to come to life
@@ -1498,8 +1498,8 @@ Crazy if you let it
 You would think that I
 Would deserve a fair promotion
 Want to move ahead
-But the boss won't seem to let me",../audio/spectrograms/541855.png
-1.17832480497,1.18331091453,Mandy Moore,Drop The Pilot,"I'm right on target, my aim is straight
+But the boss won't seem to let me",../audio/spectrograms/541855.png,0
+"I'm right on target, my aim is straight
 So you're in love, I say what of it
 Things can change, there's always changes
 I wanna try some rearranging, I say
@@ -1514,8 +1514,8 @@ I'm the one you need, I'm the one you need
 You're kissing cousins, there's no smoke, no flame
 If you lose that pilot I'll come fly your plane
 If you want solid ground, come on and try me
-Oh I can take you so high that you're never gonna wanna come down, I say",../audio/spectrograms/541959.png
-0.984579142406,-0.010504291724200004,Mandy Moore,One Way Or Another,"One way
+Oh I can take you so high that you're never gonna wanna come down, I say",../audio/spectrograms/541959.png,0
+"One way
 One way
 Or another
 One way
@@ -1533,8 +1533,8 @@ And if the lights are all down
 I'll see who's around
 
 One way, or another I'm gonna find ya
-I'm gonna get ya get ya get ya get ya",../audio/spectrograms/541961.png
--1.9352498567900005,-0.655809808621,Mandy Moore,Breaking Us In Two,"Don't you feel like trying something new?
+I'm gonna get ya get ya get ya get ya",../audio/spectrograms/541961.png,3
+"Don't you feel like trying something new?
 Don't you feel like breaking out
 Or breaking us in two?
 You don't do the things that I do
@@ -1543,8 +1543,8 @@ Always something breaking us in two
 
 But you and I could never live alone
 But don't you feel like breaking out
-Just one day on your own",../audio/spectrograms/541962.png
--1.83974143158,0.339804417448,Luther Vandross,Don't Want To Be A Fool,"Love, what have you done
+Just one day on your own",../audio/spectrograms/541962.png,2
+"Love, what have you done
 Oh wow
 I was sure up til now that she was a friend
 I stayed til the end
@@ -1565,8 +1565,8 @@ I just don't want to be a fool
 (Don't want to be a fool)
 Said i don't want to be a fool ever again
 
-Whenerver a fool's in love",../audio/spectrograms/544934.png
--0.960154315621,-0.207168830204,Lemar,If there's Any Justice,"Ye-ah-ah
+Whenerver a fool's in love",../audio/spectrograms/544934.png,1
+"Ye-ah-ah
 Yeah
 I would be your man
 You would be my girl
@@ -1586,8 +1586,8 @@ Coz there's nothing to be certain in my life
 And you've seen a thousand times
 There's not much justice in the world
 Oh no uh
-",../audio/spectrograms/545245.png
-0.3733252210800001,-0.923150665621,Lemar,I Believe In A Thing Called Love,"[Bonus track]
+",../audio/spectrograms/545245.png,2
+"[Bonus track]
 
 Mother Mother said there's far too many of you crying.
 All you need is love I believe in love
@@ -1600,8 +1600,8 @@ Touching you, touching me
 Touching you, God you're touching me
 
 I believe in a thing called love
-Just listen to the rhythm of my heart",../audio/spectrograms/545253.png
-0.909991610338,0.48115705448,Jamiroquai with Beverley Knight,Love Foolosophy,"Baby baby, I feel these sweet sensations, yeah
+Just listen to the rhythm of my heart",../audio/spectrograms/545253.png,3
+"Baby baby, I feel these sweet sensations, yeah
 Honey honey, looks like a superstar, yeah yeah
 She' got a promise of love-struck fascination
 What am I to do? How am I to know? Who you are?
@@ -1617,15 +1617,15 @@ So maybe I'm still a love fool
 She shimmers like a California sunset
 Lady lady, glitters but theres no gold
 She carries sweetly infectious magic formulas
-I'm so delirious, is she that serious?",../audio/spectrograms/545493.png
-0.526138701412,-1.62837740909,Clannad,Theme From Harry's Game,"Imtheochaidh soir is siar
+I'm so delirious, is she that serious?",../audio/spectrograms/545493.png,0
+"Imtheochaidh soir is siar
 A dtainig ariamh
 An ghealach is an ghrian
 
 Fol lol the doh fol the day
 Fol the day fol the day
-",../audio/spectrograms/546089.png
--0.517359064281,-0.0123480217725,Clannad,"I Will Find You (Theme From ""The Last Of The Mohicans"")","Hope is your survival
+",../audio/spectrograms/546089.png,3
+"Hope is your survival
 A captive path I lead
 
 CHORUS 1
@@ -1636,8 +1636,8 @@ No matter where you go
 I will find you
 If it takes a thousand years
 
-Nachgochema anetaha",../audio/spectrograms/546090.png
--1.07203561372,0.181550921635,Kelly Clarkson,Because Of You,"Ooh ooh ooh oohh
+Nachgochema anetaha",../audio/spectrograms/546090.png,2
+"Ooh ooh ooh oohh
 
 Ooh ooh ooh ooh oohh
 
@@ -1655,8 +1655,8 @@ I find it hard to trust not only me, but everyone around me
 Because of you
 I am afraid
 
-I lose my way and it's not too long before you point it out",../audio/spectrograms/546130.png
--0.780962317853,-0.789480237121,The Coral,Careless Hands,"Don't put your heart in careless hands
+I lose my way and it's not too long before you point it out",../audio/spectrograms/546130.png,1
+"Don't put your heart in careless hands
 Those careless hands they don't understand
 
 Sugar and spice and
@@ -1668,8 +1668,8 @@ You'll put your heart in careless hands
 Those careless hands they don't understand
 
 They'll lift you up and they'll
-Put you down",../audio/spectrograms/546371.png
--1.29452476425,0.243930454938,System of a Down,Soldier Side,"Dead men lying on the bottom of the grave
+Put you down",../audio/spectrograms/546371.png,2
+"Dead men lying on the bottom of the grave
 Wondering when savior comes, is he gonna be saved
 Maybe you're a sinner into your alternate life
 Maybe you're a joker, maybe you deserve to die
@@ -1681,8 +1681,8 @@ He's never coming back
 
 They were crying when their sons left
 All young men must go
-He's come so far to find the truth",../audio/spectrograms/546575.png
-1.54125682076,1.70416465317,System of a Down,Stealing Society,"Yeah
+He's come so far to find the truth",../audio/spectrograms/546575.png,1
+"Yeah
 Alright
 
 Yeah
@@ -1705,8 +1705,8 @@ One's abiding
 
 Two suns
 Watching them both fighting
-Two suns",../audio/spectrograms/546576.png
--1.2834535835299998,-0.186975596346,System of a Down,Lonely Day,"Such a lonely day
+Two suns",../audio/spectrograms/546576.png,0
+"Such a lonely day
 And it's mine
 The most loneliest day of my life
 Such a lonely day
@@ -1715,8 +1715,8 @@ It's a day that I can't stand
 
 The most loneliest day of my life
 The most loneliest day of my life
-",../audio/spectrograms/546578.png
-0.0158508295903,0.390506993776,Air Supply,All Out Of Love,"I'm lying alone with my head on the phone
+",../audio/spectrograms/546578.png,2
+"I'm lying alone with my head on the phone
 Thinking of you till it hurts
 I know you're hurt too, but what else can we do?
 Tormented and torn apart
@@ -1732,8 +1732,8 @@ I'm all out of love, what am I without you?
 I can't be too late to say that I was so wrong
 
 I want you to come back and carry me home
-Away from these long lonely nights",../audio/spectrograms/546790.png
-0.3733252210800001,-0.923150665621,DJ Jazzy Jeff & The Fresh Prince,Summertime,"Drums please
+Away from these long lonely nights",../audio/spectrograms/546790.png,0
+"Drums please
 
 Summer, summer, summertime
 Time to sit back and unwind
@@ -1763,8 +1763,8 @@ Time to sit back and unwind
 School is out an' it's a sort of a buzz
 An' back then I didn't really know what it was
 But now I see what have of this
-The way that people respond to summer madness",../audio/spectrograms/546826.png
-1.54671444505,2.11900391403,Anti-Flag,Emigre,"First they came for the Communists, and I did not speak out.
+The way that people respond to summer madness",../audio/spectrograms/546826.png,3
+"First they came for the Communists, and I did not speak out.
 Then they came for the socialists, and I did not speak out.
 Next they came for the trade unionists, and I did not speak out.
 AND THEN THEY CAME FOR ME
@@ -1777,8 +1777,8 @@ Classism the black plague - Will mark your grave
 This is the second time, we will not fall in line,
 No you can't stop this exodus
 No you won't stop this exodus.
-No you can't stop this exodus",../audio/spectrograms/546926.png
-1.54671444505,2.11900391403,Anti-Flag,State Funeral,"This is the sound of a dropping bomb
+No you can't stop this exodus",../audio/spectrograms/546926.png,0
+"This is the sound of a dropping bomb
 
 After years are we still all content
 With being pawns in war game chess?
@@ -1789,8 +1789,8 @@ As fundamentalist citing stories and fables
 Of whose god is more righteously skilled
 In whose gods' honor that we are all killed...
 
-A dead ringer for Armageddon",../audio/spectrograms/546931.png
-1.54671444505,2.11900391403,Anti-Flag,The W.T.O. Kills Farmers,"1, 2, 3, 4, 5, 6, 7, 8
+A dead ringer for Armageddon",../audio/spectrograms/546931.png,0
+"1, 2, 3, 4, 5, 6, 7, 8
 
 I did my best to make it in the world
 I plowed by sweat in tears into the fertile
@@ -1811,8 +1811,8 @@ You better make it now
 Take back your rights from the IMF, World Bank and Monsanto
 
 S.O.S., this is a global call
-You better make a stand",../audio/spectrograms/546934.png
-1.54671444505,2.11900391403,Anti-Flag,Cities Burn,"Woah oh Woah oh
+You better make a stand",../audio/spectrograms/546934.png,0
+"Woah oh Woah oh
 Woah oh Woah oh
 
 I woke up sweat soaked in the morning
@@ -1829,8 +1829,8 @@ A nation in fervor has given up.
 No, no, no, this fight has just begun.
 With movements and revolutions as few and far between.
 As movements and revolutions will ever come to be
-",../audio/spectrograms/546935.png
-0.3733252210800001,-0.923150665621,Citizen Cope,Bullet And A Target,"Say Mrs. Dali Lamas
+",../audio/spectrograms/546935.png,0
+"Say Mrs. Dali Lamas
 Another sister's shootin' heroin tomorrow
 'S amputees in Freetown
 Sierra Leone's
@@ -1850,8 +1850,8 @@ You're pulling yourself away
 
 What you've done here
 Is put yourself between a bullet and a target
-And it won't be long before",../audio/spectrograms/547229.png
-0.815392789182,0.662457175897,Citizen Cope,Hurricane Waters,"See I will carry you through the hurricane waters
+And it won't be long before",../audio/spectrograms/547229.png,3
+"See I will carry you through the hurricane waters
 And I'll remember you in the blue skies
 See I will carry you in the hurricane waters
 And I'll remember you in the blue skies
@@ -1862,8 +1862,8 @@ When you're stuck in the middle
 Of a place that you don't belong, yeah
 
 When you start to lose sight of
-What's right and wrong, yeah",../audio/spectrograms/547230.png
--1.9352498567900005,-0.655809808621,Harry Nilsson,Spaceman,"Bang! Bang! Shoot em' up, destiny
+What's right and wrong, yeah",../audio/spectrograms/547230.png,0
+"Bang! Bang! Shoot em' up, destiny
 Bang! Bang! Shoot em' up to the moon
 Bang! Bang! Shoot em' up one, two, three
 One, two, three, four
@@ -1880,8 +1880,8 @@ But 'round and around and around and around
 Is all she ever say to me
 
 I wanted to make a good run
-I wanted to go to the moon",../audio/spectrograms/547392.png
--1.49591110083,0.0401982846033,Pearl Jam,Gone,"No more upset mornings
+I wanted to go to the moon",../audio/spectrograms/547392.png,2
+"No more upset mornings
 No more tired evenings
 This American dream
 I am disbelieving
@@ -1896,8 +1896,8 @@ They only look good when I'm speeding
 I wanna leave 'em all behind me
 'Cause this time I'm gone
 
-Long gone",../audio/spectrograms/547513.png
-0.449731961246,-2.0754819457900004,Pearl Jam,Inside Job,"Underneath this smile lies everything
+Long gone",../audio/spectrograms/547513.png,1
+"Underneath this smile lies everything
 All my hopes and anger
 Pride and shame
 Make myself a pact not to shut doors on the past
@@ -1910,8 +1910,8 @@ I know this one thing well
 I used to try to kill love
 Was the highest sin
 Breathing insecurity out and in
-Searching hope",../audio/spectrograms/547517.png
-0.815392789182,0.662457175897,Jim Reeves,Snowflake,"Hey-ey-ey snowflake
+Searching hope",../audio/spectrograms/547517.png,3
+"Hey-ey-ey snowflake
 My pretty little snowflake
 Ooh, ooh, the change in the weather
 Has made it better for me
@@ -1924,8 +1924,8 @@ Snow was falling when love came calling
 On this lonely heart of mine.
 You were standing there with snow flakes in your hair
 
-You kept stalling while my thoughts were calling",../audio/spectrograms/547878.png
-0.815392789182,0.662457175897,The Zutons,It's The Little Things We Do,"Well, I woke this morning with a teardrop in my eye
+You kept stalling while my thoughts were calling",../audio/spectrograms/547878.png,0
+"Well, I woke this morning with a teardrop in my eye
 Because last night it felt like the best night of my life
 Now there's something that is wrong, rotting my insides
 And I don't understand why my brain wants to die?
@@ -1935,8 +1935,8 @@ And when I woke up today you know my brain was all in tatters
 I had bits of lungs, shrapnel glass, cigarettes for breakfast
 And my lips are blue, my toes are numb and I think I've got the shivers
 
-It's the little things we do when we go out in the night",../audio/spectrograms/548195.png
-1.54125682076,1.70416465317,The Zutons,Valerie,"Well, sometimes I go out by myself
+It's the little things we do when we go out in the night",../audio/spectrograms/548195.png,0
+"Well, sometimes I go out by myself
 And I look across the water
 And I think of all the things, what you do
 And in my head, I make a picture
@@ -1951,8 +1951,8 @@ And why don't you come on over Valerie?
 Valerie
 
 Did you have to go to jail
-Put your house up on for sale",../audio/spectrograms/548196.png
-0.815392789182,0.662457175897,The Zutons,You've Got A Friend In Me,"You've got a friend in me, darlin'
+Put your house up on for sale",../audio/spectrograms/548196.png,0
+"You've got a friend in me, darlin'
 You've got a friend in me
 'Cause when I looked at your face
 I've seen a wonderful place
@@ -1969,8 +1969,8 @@ You're creeping so quietly so I don't get scared
 I sit in your garden on your fence at night
 I'm watching you live through the day and the night
 
-You've got a friend in me, darlin'",../audio/spectrograms/548202.png
--0.63451606587,0.0417347263133,Shayne Ward,That's My Goal,"You know where I've come from
+You've got a friend in me, darlin'",../audio/spectrograms/548202.png,0
+"You know where I've come from
 You know my story
 You know why I'm standing here
 Tonight
@@ -1989,8 +1989,8 @@ I'm not here to lie to you
 I'm here to say, ""I'm ready""
 That I've finally thought it through
 I'm not here to let your love go
-I'm not giving up, oh, no",../audio/spectrograms/548274.png
--0.090572844212,0.457342208026,Shayne Ward,No Promises,"Hey baby, when we are together, doing things that we love
+I'm not giving up, oh, no",../audio/spectrograms/548274.png,1
+"Hey baby, when we are together, doing things that we love
 Every time you're near I feel like I'm in heaven, feeling high
 
 I don't want to let go, girl
@@ -2002,8 +2002,8 @@ Baby, now I need to hold you tight, I just wanna die in your arms
 
 Here tonight
 
-Hey baby, when we are together, doing things that we love",../audio/spectrograms/548275.png
-0.0158508295903,0.390506993776,Shayne Ward,Stand By Me,"Nothing's impossible
+Hey baby, when we are together, doing things that we love",../audio/spectrograms/548275.png,1
+"Nothing's impossible
 Nothing's unreachable
 When I am weary
 You make me stronger
@@ -2022,8 +2022,8 @@ When the story gets told
 
 When day turns into night
 I look into your eyes
-I see my future now",../audio/spectrograms/548276.png
-0.0158508295903,0.390506993776,Shayne Ward,All My Life,"I will never find another lover
+I see my future now",../audio/spectrograms/548276.png,0
+"I will never find another lover
 Sweeter than you, sweeter than you
 And I will never find another lover
 More precious than you, more precious than you
@@ -2045,8 +2045,8 @@ I prayed for someone like you
 
 And I hope that you, feel the same way too
 Yes, I pray that you do love me too
-Said I promise to never fall in love with a stranger",../audio/spectrograms/548277.png
-1.0719011311700002,0.8468301807240001,Shayne Ward,Something Worth Living For,"I don't wanna leave you here all by yourself
+Said I promise to never fall in love with a stranger",../audio/spectrograms/548277.png,0
+"I don't wanna leave you here all by yourself
 I just wanna let you know I'm there for you, like no one else
 I don't wanna drift off to another place
 I just wanna lay here in your arms, with your hand on my face
@@ -2059,8 +2059,8 @@ I don't wanna stop this, all my walls are cavin' in
 I wanna give you something worth livin' for, oh yeah
 I wanna tell you this and so much more
 My everything, my universe
-",../audio/spectrograms/548283.png
--0.431674362809,0.0955101860516,Shayne Ward,A Better Man,"Until the oceans all run dry
+",../audio/spectrograms/548283.png,0
+"Until the oceans all run dry
 Until the stars fall from the sky
 Even if words don't seem to rhyme
 I'll be addicted to your smile
@@ -2073,8 +2073,8 @@ I'll plan to spend my night with you
 I promise you, my heart won't fade
 I swear to you, my soul always
 It isn't hard to understand
-You're making me a better man",../audio/spectrograms/548284.png
-1.2574603572799998,1.086515087,Matthew Sweet,Girlfriend,"I wanna love somebody
+You're making me a better man",../audio/spectrograms/548284.png,1
+"I wanna love somebody
 I hear you need somebody to love
 Oh, I wanna love somebody
 I hear you're looking for someone to love
@@ -2086,8 +2086,8 @@ Get back in the arms of a girlfriend
 
 I didn't know nobody
 And then I saw you coming my way
-Well, I didn't know nobody",../audio/spectrograms/548586.png
--1.10569096356,0.6855038015,Matthew Sweet,Nothing Lasts,"If one could stop time
+Well, I didn't know nobody",../audio/spectrograms/548586.png,0
+"If one could stop time
 Or make it up
 If two could realize
 The best of luck
@@ -2101,8 +2101,8 @@ To the past
 But you know
 That nothin'
 Oh no, nothin' lasts
-Nothin' lasts",../audio/spectrograms/548598.png
-0.3733252210800001,-0.923150665621,Imogen Heap,Headlock,"Distant flickering, greener scenery
+Nothin' lasts",../audio/spectrograms/548598.png,1
+"Distant flickering, greener scenery
 This weather's bringing it all back again
 Great adventures, faces in condensation
 I'm going outside and take it all in
@@ -2120,8 +2120,8 @@ With big intention, still posted at your station
 Always on about the day it should have flown
 
 You say too late to start
-Got your heart in a headlock",../audio/spectrograms/548641.png
-0.262808329055,0.243008589914,Imogen Heap,Goodnight and Go,"Say goodnight and go
+Got your heart in a headlock",../audio/spectrograms/548641.png,3
+"Say goodnight and go
 
 Skipping beats
 Blushing cheeks
@@ -2141,8 +2141,8 @@ Say goodnight and go
 
 Follow you home
 You've got your headphones on
-And you're dancing",../audio/spectrograms/548642.png
--0.358678637829,-0.701903059828,Imogen Heap,Hide & Seek,"Where are we? what the hell is going on?
+And you're dancing",../audio/spectrograms/548642.png,0
+"Where are we? what the hell is going on?
 The dust has only just began to fall
 Crop circles in the carpet, sinking, feeling
 Spin me around again and rub my eyes
@@ -2154,8 +2154,8 @@ Trains and sewing machines?
 All those years they were here first
 
 Oily marks appear on walls
-Where pleasue moments hung before",../audio/spectrograms/548645.png
-0.0040259769438,-1.10752367045,Imogen Heap,Just For Now,"Just for now, just for now, just for now
+Where pleasue moments hung before",../audio/spectrograms/548645.png,2
+"Just for now, just for now, just for now
 Just for now, just for now, just for now
 
 It's that time of year
@@ -2170,8 +2170,8 @@ You can never have had too many of these
 Will ya quit kicking me under the table?
 I'm trying, will somebody make her shut up about it?
 Can we settle down please?
-",../audio/spectrograms/548649.png
--1.53866249116,-0.462218153552,Billy Joel,Goodnight Saigon,"We met as soul mates
+",../audio/spectrograms/548649.png,3
+"We met as soul mates
 On Parris Island
 We left as inmates
 From an asylum
@@ -2192,16 +2192,16 @@ But our bellies were tight
 We had no home front
 We had no soft soap
 They sent us Playboy
-They gave us Bob Hope",../audio/spectrograms/548679.png
--0.595948854166,-0.648434888428,Opeth,Windowpane,"Blank face in the windowpane
+They gave us Bob Hope",../audio/spectrograms/548679.png,2
+"Blank face in the windowpane
 Made clear in seconds of light
 Disappears and returns again
 Counting hours, searching the night
 
 Might be waiting for someone
 Might be there for us to see
-",../audio/spectrograms/549194.png
--0.784600734053,-0.724949685431,Opeth,In My Time Of Need,"I can't see the meaning of this life I'm leading
+",../audio/spectrograms/549194.png,2
+"I can't see the meaning of this life I'm leading
 I try to forget you as you forgot me
 This time there is nothing left for you to take
 This is goodbye
@@ -2213,15 +2213,15 @@ And I should contemplate this change
 To ease the pain
 And I should step out of the rain
 Turn away
-",../audio/spectrograms/549195.png
--0.89830124025,-0.5882063735199999,Opeth,Death Whispered A Lullaby,"Out on the road there are fireflies circling
+",../audio/spectrograms/549195.png,2
+"Out on the road there are fireflies circling
 Deep in the woods, where the lost souls hide
 Over the hill there are men returning
 Trying to find some peace of mind
 
 Sleep my child
-",../audio/spectrograms/549196.png
--0.8699215939030001,-0.692684409586,Opeth,Hope Leaves,"In the corner beside my window
+",../audio/spectrograms/549196.png,2
+"In the corner beside my window
 Hangs a lonely photograph
 There is no reason
 I'd never notice a memory that could hold me back
@@ -2229,8 +2229,8 @@ I'd never notice a memory that could hold me back
 There is a wound that's always bleeding
 There is a road I'm always walking
 And I know you'll never return to this place
-",../audio/spectrograms/549198.png
--1.34400722455,0.0048601253478000005,Opeth,To Rid The Disease,"There's nobody here
+",../audio/spectrograms/549198.png,2
+"There's nobody here
 There's nobody near
 I try not to care
 Dead eyes always stare
@@ -2238,8 +2238,8 @@ Let these matters be
 Don't trust what you see
 Take hold of your time
 Step into the line
-",../audio/spectrograms/549199.png
--0.6827250804970001,0.316757791845,Opeth,The Drapery Falls,"Please remedy my confusion
+",../audio/spectrograms/549199.png,1
+"Please remedy my confusion
 And thrust me back to the day
 The silence of your seclusion
 Brings night into all you say
@@ -2252,8 +2252,8 @@ Drowned visions in haunted sleep
 Faint flickering of your powers
 Leaks out to show what you keep
 
-Pull me down again",../audio/spectrograms/549232.png
--0.409843865619,-0.107300119259,Cradle Of Filth,Funeral In Carpathia,"Candelabra snuffed, prey - silhouette wedded
+Pull me down again",../audio/spectrograms/549232.png,1
+"Candelabra snuffed, prey - silhouette wedded
 Nightfall take my hand
 Seduce me with silky timbred limbs
 Grant me thy dark command
@@ -2281,8 +2281,8 @@ Livid Bacchus sustained by bridal echelons of slyph
 This wintry eve when the snow glistens deep
 And sharpened turrets wed the jewelless skies
 I shrug off the shroud of preternatural sleep
-Embroided by these words Malaresia scribed",../audio/spectrograms/549257.png
--0.85464024587,0.7177690773450001,Cradle Of Filth,Lord Abortion,"Care for a little necrophilia? Hmm?
+Embroided by these words Malaresia scribed",../audio/spectrograms/549257.png,2
+"Care for a little necrophilia? Hmm?
 
 I was born with a birthmark of cinders
 Debris cast from the stars and mother
@@ -2315,8 +2315,8 @@ Tear stains upon the drape
 I should compare them
 To a warm Summer's day
 But to the letter, it is better
-To lichen their names to a grave",../audio/spectrograms/549263.png
-0.3733252210800001,-0.923150665621,Peter Tosh,Equal Rights,"Everyone is crying out for peace, yes
+To lichen their names to a grave",../audio/spectrograms/549263.png,1
+"Everyone is crying out for peace, yes
 None is crying out for justice
 
 Everyone is crying out for peace, yes
@@ -2334,8 +2334,8 @@ I don't want no peace
 I, man need equal rights and justice
 I got to get it, equal rights and justice
 I really need it, equal rights and justice
-Just give me my share, equal rights and justice",../audio/spectrograms/549801.png
--0.317973856612,-0.399224043572,Bill Withers,Ain't No Sunshine,"Ain't no sunshine when she's gone
+Just give me my share, equal rights and justice",../audio/spectrograms/549801.png,3
+"Ain't no sunshine when she's gone
 It's not warm when she's away
 Ain't no sunshine when she's gone
 And she's always gone too long
@@ -2344,8 +2344,8 @@ Anytime she's goes away
 Wonder this time where she's gone
 Wonder if she's gone to stay
 Ain't no sunshine when she's gone
-And this house just ain't no home",../audio/spectrograms/549918.png
-0.3733252210800001,-0.923150665621,Bill Withers,I Want To Spend The Night,"I want to spend the night
+And this house just ain't no home",../audio/spectrograms/549918.png,2
+"I want to spend the night
 With you forever
 Every time we wind up spending the night together
 Do you ever feel it?
@@ -2353,8 +2353,8 @@ I want to share my life
 With you forever
 Every time we wind up sharing a night together
 Do you ever feel it?
-",../audio/spectrograms/549919.png
--1.9352498567900005,-0.655809808621,Bill Withers,Grandma's Hands,"Grandma's hands
+",../audio/spectrograms/549919.png,3
+"Grandma's hands
 Clapped in church on Sunday morning
 Grandma's hands
 Played a tambourine so well
@@ -2365,8 +2365,8 @@ Might fall on a piece of glass
 Might be snakes there in that grass
 Grandma's hands
 
-Grandma's hands",../audio/spectrograms/549924.png
-0.747172485463,-0.835573488328,OutKast,When I Look In Your Eyes,"Hey...
+Grandma's hands",../audio/spectrograms/549924.png,2
+"Hey...
 
 Uh huh...
 
@@ -2380,13 +2380,13 @@ But i still get overwhelmed, when I look in your eyes...
 
 Been from Maine to Spaine,
 But everything seems the same,
-But I only feel a change, when I look in your eyes...",../audio/spectrograms/550032.png
--1.9352498567900005,-0.655809808621,OutKast,A Bad Note,"A bad note ain't no bad note
+But I only feel a change, when I look in your eyes...",../audio/spectrograms/550032.png,3
+"A bad note ain't no bad note
 If it's a good note
 A bad note ain't no bad note
 If it's a good note
-A bad note ain't no bad note",../audio/spectrograms/550034.png
-0.869969032158,-1.32877127624,Frankie Laine,High Noon,"Do not forsake me, oh my darlin'
+A bad note ain't no bad note",../audio/spectrograms/550034.png,2
+"Do not forsake me, oh my darlin'
 On this, our weddin' day
 Do not forsake me, oh my darlin'
 Wait, wait along
@@ -2395,8 +2395,8 @@ I do not know what fate awaits me
 I only know I must be brave
 And I must face a man who hates me
 Or lie a coward, a craven coward
-Or lie a coward in my grave",../audio/spectrograms/550302.png
-0.0276756822368,-0.7664336115170001,Ozzy Osbourne,Lay Your World on Me,"Lay Your World On Me
+Or lie a coward in my grave",../audio/spectrograms/550302.png,3
+"Lay Your World On Me
 I know you think you're all alone
 I haven't been there when you've needed me
 I didn't deserve the love you gave
@@ -2409,8 +2409,8 @@ I can be the pillar of strength that you need
 I'll help you keep it all together
 It's better late than never
 Lay your world on me
-I can take the weight",../audio/spectrograms/551620.png
--1.36219930554,-0.8125268627240001,Ozzy Osbourne,11 Silver,"Your words, they go right through me
+I can take the weight",../audio/spectrograms/551620.png,3
+"Your words, they go right through me
 They circle round my head, yeah
 I can't believe I'm still here
 I know I should be dead, yeah
@@ -2421,8 +2421,8 @@ Crank me faster
 Help me get the thrill I'm after
 
 One time to take away all pain
-One more to turn myself insane",../audio/spectrograms/551623.png
-1.54125682076,1.70416465317,Mumm-Ra,She's Got You High,"She's got you high and you don't even know yet
+One more to turn myself insane",../audio/spectrograms/551623.png,2
+"She's got you high and you don't even know yet
 She's got you high and you don't even know yet
 The sun's in the sky, its warming up your bare legs
 You can't deny your looking for the sunset
@@ -2436,8 +2436,8 @@ We've lost romance this world has turned so see through
 Open your mind, believe it's going to come to
 Romance alive and hope she's going to tell you.
 
-She's got you high and you don't even know yet",../audio/spectrograms/552108.png
-0.00766439314399,0.7915182792759999,Scorpions,Love Will Keep Us Alive,"When I look at you
+She's got you high and you don't even know yet",../audio/spectrograms/552108.png,0
+"When I look at you
 I can see the sadness in your eyes
 In these desperate times
 We get pushed and shoved from every side
@@ -2455,8 +2455,8 @@ Love will keep us alive
 Love will keep us alive
 Love, love will keep us alive
 
-When you walk away",../audio/spectrograms/552448.png
-1.0719011311700002,0.8468301807240001,L'Aura,The Doors,"One is the cause
+When you walk away",../audio/spectrograms/552448.png,0
+"One is the cause
 And two is mysterious,
 Three is the wisest,
 Four is so powerful
@@ -2469,8 +2469,8 @@ Eight will rule them all!
 Nine is a hermit,
 Ten is just probable,
 Eleven is virtuous,
-Twelve's hanging down a rope!",../audio/spectrograms/552888.png
-1.11010450125,-0.31471974969,The Coral,Put The Sun Back,"I caught you cryin'
+Twelve's hanging down a rope!",../audio/spectrograms/552888.png,0
+"I caught you cryin'
 Tryin' to hide your tears away
 And all the while
 I never knew you felt this way
@@ -2481,8 +2481,8 @@ We've got to put
 The sun back in our hearts
 
 Through the alleyways
-The avenues and dreary days",../audio/spectrograms/553373.png
-1.54125682076,1.70416465317,The Coral,In The Rain,"Outside the factory gates
+The avenues and dreary days",../audio/spectrograms/553373.png,3
+"Outside the factory gates
 For hours sit and wait
 For you to turn around
 And show me there's a way
@@ -2499,8 +2499,8 @@ I am a stranger in this life
 Haunted by yesterday's desires
 
 When we meet again
-You'll know I am to blame",../audio/spectrograms/553376.png
-0.678952181743,-2.33360415255,The Coral,She's Got A Reason,"She watched the sky as it bathes into black
+You'll know I am to blame",../audio/spectrograms/553376.png,0
+"She watched the sky as it bathes into black
 Watched with the lovers that never came back
 The princes and kings, all the beautiful things
 And more
@@ -2512,8 +2512,8 @@ And more
 
 She's got a reason to roam with the stars
 Watch her go as she sings
-Dum dum dara ra ra, dum dum dara ra ra",../audio/spectrograms/553380.png
-1.54125682076,1.70416465317,Michael Jackson,P.Y.T. (Pretty Young Thing),"You know you, you make me feel so good inside
+Dum dum dara ra ra, dum dum dara ra ra",../audio/spectrograms/553380.png,3
+"You know you, you make me feel so good inside
 I always wanted a girl just like you
 Such a P.Y.T., Pretty Young Thing, ooh
 
@@ -2540,8 +2540,8 @@ And I'll take you there
 (Anywhere you want to go) Yes, I will, ooh
 
 Nothing can stop this burning desire to be with you
-Got to get to you, baby",../audio/spectrograms/555643.png
-1.54125682076,1.70416465317,SWV,You're The One,"You're the one for me
+Got to get to you, baby",../audio/spectrograms/555643.png,0
+"You're the one for me
 (You're the one)
 You can call on me
 (Oh, yes)
@@ -2561,8 +2561,8 @@ Anything to make this love go further
 You're the one
 (You're the one for me)
 When in need
-(You can call on me)",../audio/spectrograms/555804.png
-1.17832480497,1.18331091453,SWV,Right Here,"Lately there seems to be some insecurities
+(You can call on me)",../audio/spectrograms/555804.png,0
+"Lately there seems to be some insecurities
 About the way I feel where I wanna be
 Boy you know it's with you
 No one can do the things you do to me
@@ -2585,8 +2585,8 @@ No one can do me like you do it's true
 Sure as the sun is shining our love will keep on climbing
 There's gonna be some rain gonna be some pain
 But as long as I know boy time will show
-Our love will grow and I know",../audio/spectrograms/555805.png
-1.0719011311700002,0.8468301807240001,Luther Vandross,Love Won't Let Me Wait,"I need to have you next to me
+Our love will grow and I know",../audio/spectrograms/555805.png,0
+"I need to have you next to me
 In more ways than one
 And I refuse to leave
 Till I see the mornin' sun
@@ -2615,8 +2615,8 @@ Creep through your window pane
 Because love won't let me wait
 Not another minute
 
-Ooh, ooh, ooh",../audio/spectrograms/556250.png
--0.292504943222,1.10034306236,Mudvayne,Determined,"Go...
+Ooh, ooh, ooh",../audio/spectrograms/556250.png,0
+"Go...
 So fucking determined
 Yeah, yeah go...
 You better believe it, confidence
@@ -2647,8 +2647,8 @@ Yeah
 I'm flushing the trust of everyone
 Stabbing in the back and thinkin' they can break me
 Set my sight can't die 'till I'm done, mind endurance
-Never wanted anymore than what I deserve",../audio/spectrograms/556807.png
--1.70057201199,1.84244440679,Mudvayne,Happy?,"In this hole that is me
+Never wanted anymore than what I deserve",../audio/spectrograms/556807.png,1
+"In this hole that is me
 The dead are rolling over
 In this hole thickening
 Dirt shoveled over shoulders
@@ -2669,8 +2669,8 @@ Are you feeling happy now?
 
 In this hole that is me
 A life that's growing feeble
-In this hole so limiting",../audio/spectrograms/556809.png
--1.9352498567900005,-0.655809808621,Acceptance,In The Cold,"And the words they take their meaning (It's all you said)
+In this hole so limiting",../audio/spectrograms/556809.png,1
+"And the words they take their meaning (It's all you said)
 And the flame, it loses colour (It's all you said)
 Take take take a while, take a while (It's all you said)
 
@@ -2682,8 +2682,8 @@ All that ever mattered leaves us in the cold
 If you ever believe this is what you need
 It will spin around and shatter
 Throw you to the floor
-As it leaves us in the cold",../audio/spectrograms/556930.png
--1.40040267563,1.5382289488299998,Mudvayne,Fall Into Sleep,"Dreams of earth quakes
+As it leaves us in the cold",../audio/spectrograms/556930.png,2
+"Dreams of earth quakes
 Dreams of hurricanes
 Dreams of pouring rain
 Dreams of tidal waves to wash us all away
@@ -2702,8 +2702,8 @@ Fall into sleep, fall into me
 I have a dream
 But nobody cares, nobody wants to listen
 Fall into sleep, fall into me
-Hang onto a dream, that nobody wants",../audio/spectrograms/556969.png
-0.766274170504,-2.11235654676,Kyle Riabko,Carry On,"In the mornin' I was weary
+Hang onto a dream, that nobody wants",../audio/spectrograms/556969.png,1
+"In the mornin' I was weary
 Oh, in the mornin' I was lost
 But in the evenin' I was dreamin'
 Of our love an' the way it carries on
@@ -2714,8 +2714,8 @@ But when I'm tired, she's my fire
 'Cause I know that her love is always mine
 
 She assures me
-That when life hurts me",../audio/spectrograms/556987.png
--1.04838590843,0.335195092328,Mudvayne,All That You Are,"Repeating in my head
+That when life hurts me",../audio/spectrograms/556987.png,3
+"Repeating in my head
 Betrayal
 Repeating in my head
 Insecurities
@@ -2755,8 +2755,8 @@ Contorted
 Twisted broken
 Without a reason
 
-Calloused",../audio/spectrograms/558947.png
--0.7673182571089999,0.911360732414,Buddy Guy,My Time After Awhile,"It's your time now, baby
+Calloused",../audio/spectrograms/558947.png,1
+"It's your time now, baby
 Oh, but it's gonna be mine after awhile
 I said, it's your time right now, baby
 Lord, but it's gonna be mine after awhile
@@ -2767,8 +2767,8 @@ She stayed out last night
 And do you know she just walked in
 The girl is gettin' ready
 She's going back out again
-I said, just wait one minute",../audio/spectrograms/559075.png
-1.54125682076,1.70416465317,Bay City Rollers,Rock 'N Roller,"I get my kicks from rock and roll
+I said, just wait one minute",../audio/spectrograms/559075.png,1
+"I get my kicks from rock and roll
 A 12 bar boogie gonna bless my soul
 Wanna dance to that rhythm
 Get down to that rockin' beat
@@ -2778,8 +2778,8 @@ And its stuffed shirt nights
 'Cos I wanna be a rock 'n roll star
 And make my money out of playin' guitar
 Cos I'm a rock and roller
-I'm gonna rock it, gonna roll all over",../audio/spectrograms/559233.png
--1.9352498567900005,-0.655809808621,The Calling,One By One,"He stands alone outside the blooming yard
+I'm gonna rock it, gonna roll all over",../audio/spectrograms/559233.png,0
+"He stands alone outside the blooming yard
 All is calm there on the street
 The shadows pass him hung right over
 The pain on his face he knew he'd keep...
@@ -2795,8 +2795,8 @@ Two by two
 He's getting you
 To watch him as he leaves this life he knew
 
-How much anger is set aside",../audio/spectrograms/559243.png
-1.0719011311700002,0.8468301807240001,The Calling,Anything,"I'll be there
+How much anger is set aside",../audio/spectrograms/559243.png,2
+"I'll be there
 Always waiting
 Waiting for you
 To let me inside
@@ -2813,8 +2813,8 @@ Whatever it takes, I'll do anything (anything)
 And as you sleep
 Eyes to the window
 I'm watching you dream
-Well, are you dreaming of me?",../audio/spectrograms/559246.png
--0.6236008172749999,-0.560550422796,Amerie,Not The Only One,"Ha ha, ha ha
+Well, are you dreaming of me?",../audio/spectrograms/559246.png,0
+"Ha ha, ha ha
 Whoa ooh
 Ha ha, ha ha
 Ha ha ha
@@ -2861,8 +2861,8 @@ You do
 (Ha, ha, ha, ha)
 But I can't help it
 I love ya
-(Ha, ha, ha, ha)",../audio/spectrograms/559748.png
--0.308877816114,-0.102690794138,Amerie,Come With Me,"Look, you don't have to take this
+(Ha, ha, ha, ha)",../audio/spectrograms/559748.png,2
+"Look, you don't have to take this
 You can come with me
 
 So hard to believe she left you alone all alone
@@ -2892,8 +2892,8 @@ I know babe, you can come with me though
 
 I know you're alone, you can come with me though
 I know you feel pain, you can come with me though
-I know you feel hurt, you can come with me though",../audio/spectrograms/559750.png
-0.381511657526,0.372069693293,Amerie,All I Need,"[Chorus – Chris Lee]
+I know you feel hurt, you can come with me though",../audio/spectrograms/559750.png,2
+"[Chorus – Chris Lee]
 You're all that I need
 The simple things you do for me you keep comin' through
 I must say that I'm impressed
@@ -2915,8 +2915,8 @@ You took my best friend, at the time I was blind
 Hard to look ahead, hard to put the past behind
 But like Isaiah 6 when King Uzziah died
 I saw you Lord, seated on the throne lifted high
-I saw you Lord, in a way I never seen before",../audio/spectrograms/559754.png
--1.70057201199,1.84244440679,System of a Down,Revenga,"Poisoning a drink
+I saw you Lord, in a way I never seen before",../audio/spectrograms/559754.png,0
+"Poisoning a drink
 Bleeding in a sink
 Choking with a link
 Killing with a stink
@@ -2942,8 +2942,8 @@ Burning up
 All my sweet revenge
 Will be yours for the taking
 It's in the making, baby
-",../audio/spectrograms/559790.png
--1.9352498567900005,-0.655809808621,Acceptance,So Contagious,"Oh no, this couldn't be more unexpected
+",../audio/spectrograms/559790.png,1
+"Oh no, this couldn't be more unexpected
 And I can tell that I've been moving in so slow
 Don't let it throw you off too far
 'Cause I'll be running right behind you
@@ -2956,8 +2956,8 @@ Keep me hanging on
 So contagiously
 
 Oh, when I'm around you I'm predictable
-'Cause I believe in loving you at first sight",../audio/spectrograms/559848.png
-0.957291020918,0.390506993776,Kelly Clarkson,Breakaway,"Da da ra ra ra ra ra
+'Cause I believe in loving you at first sight",../audio/spectrograms/559848.png,2
+"Da da ra ra ra ra ra
 Da ra ra ra ra ra
 Da ra ra ra ra ra ra
 
@@ -2979,15 +2979,15 @@ Wanted to belong here
 But something felt so wrong here
 So I prayed I could break away
 
-I'll spread my wings and I'll learn how to fly",../audio/spectrograms/559940.png
--0.7673182571089999,0.911360732414,Buddy Guy,Let Me Love You Baby,"Well now, ooh wee baby, you know I
+I'll spread my wings and I'll learn how to fly",../audio/spectrograms/559940.png,0
+"Well now, ooh wee baby, you know I
 Claire, you sure look fine
 I said, ooh whee baby, you know I
 Claire, you sure look fine
 
 Well there's a girl like you a make a minute man change his mind
-I said, baby, when you walk you know you shake like a willow tree",../audio/spectrograms/560041.png
--1.81791093439,0.5933172990860001,Kelly Clarkson,Low,"Everybody's talkin'
+I said, baby, when you walk you know you shake like a willow tree",../audio/spectrograms/560041.png,1
+"Everybody's talkin'
 But they don't say a thing
 They look at me with sad eyes
 But I don't want the sympathy
@@ -3007,8 +3007,8 @@ No I don't need your number
 There's nothing left to say
 'Cept I never thought it'd hurt this much to be saved
 My friends are outside waiting I've gotta go
-",../audio/spectrograms/560115.png
-0.482477707031,-0.471436803793,Eurythmics,Cool Blue,"Blue the color suits you cool blue
+",../audio/spectrograms/560115.png,1
+"Blue the color suits you cool blue
 How will you stay this way for ever?
 Blue again it's a lasting chill
 To keep you cold as winter
@@ -3022,8 +3022,8 @@ Here it comes again
 Here it comes again
 Here it comes again
 Here it comes again
-",../audio/spectrograms/561795.png
-1.54125682076,1.70416465317,Eurythmics,Beautiful Child,"Something that I said
+",../audio/spectrograms/561795.png,3
+"Something that I said
 Made you wear a frown
 The way you hang your head
 Has made the tears come down
@@ -3036,8 +3036,8 @@ When you touch the sun
 So don't be concerned
 My golden one
 
-You're gonna reach the sky",../audio/spectrograms/561812.png
--1.05657234488,0.736206377828,Eurythmics,Peace Is Just A Word,"Stop the world, turn out the sun
+You're gonna reach the sky",../audio/spectrograms/561812.png,0
+"Stop the world, turn out the sun
 I'm so tired of it turning round
 Stop the world, call it a day
 Leave it all behind, leave it that way
@@ -3047,15 +3047,15 @@ Peace, is just a word, yeah
 
 Stop the world, just let it bleed
 Well, we've taken more than everything we need
-Stop the world, just shut it down",../audio/spectrograms/561813.png
--1.58232348554,-0.668101342273,Eurythmics,I've Tried Everything,"The truth of life is the greatest gift
+Stop the world, just shut it down",../audio/spectrograms/561813.png,1
+"The truth of life is the greatest gift
 But I don't think I can make it fit
 And who would guess it would come to this
 When I've tried everything
 
 And I should know but I can't explain
-The endless noise sounding in my brain",../audio/spectrograms/561814.png
--0.398019012972,-1.08601348655,Eurythmics,Lifted,"Don't be afraid when you walk through the dark
+The endless noise sounding in my brain",../audio/spectrograms/561814.png,2
+"Don't be afraid when you walk through the dark
 Just when you feel that your day fell apart
 Stay strong keep holding on
 Clear skies ahead and the dark day is done
@@ -3063,8 +3063,8 @@ Clear skies ahead and the dark day is done
 Keep on lifted, keep on lifted
 
 I wish you everything that you could want
-Just when the day finds you turned back to front",../audio/spectrograms/561815.png
-0.3733252210800001,-0.923150665621,Eurythmics,Anything But Strong,"Why do you hurt yourself?
+Just when the day finds you turned back to front",../audio/spectrograms/561815.png,2
+"Why do you hurt yourself?
 You do it very well
 You do it so politely
 That you couldn't even tell
@@ -3080,8 +3080,8 @@ You're anything but strong
 It's all bittersweet
 Outside in the street
 The grass is growing greener
-Underneath your feet",../audio/spectrograms/561827.png
--0.308877816114,-0.102690794138,Eurythmics,Sweet Dreams (Are Made Of This),"Sweet dreams are made of this
+Underneath your feet",../audio/spectrograms/561827.png,3
+"Sweet dreams are made of this
 Who am I to disagree?
 I travelled the world and the seven seas
 Everybody's looking for something
@@ -3099,16 +3099,16 @@ Everybody's looking for something
 Hold your head up
 Keep your head up
 Movin' on
-Hold your head up",../audio/spectrograms/561836.png
-0.815392789182,0.662457175897,Eurythmics,Brand New Day,"Six o'clock in the morning
+Hold your head up",../audio/spectrograms/561836.png,2
+"Six o'clock in the morning
 And I'm stepping through the streets
 The pavement's cold and empty
 Got the blues beneath my feet.
 Big old sun is rising up
 So elegant and thin
 Another day is over
-So a new day will begin",../audio/spectrograms/561854.png
--1.04019947199,-0.06581619317250001,Eurythmics,I Need You,"I need you to pin me down just for one frozen moment
+So a new day will begin",../audio/spectrograms/561854.png,0
+"I need you to pin me down just for one frozen moment
 I need someone to pin me down so I can live in torment
 I need you to really feel the twist of my back breaking
 I need someone to listen to the ecstasy I'm faking
@@ -3118,8 +3118,8 @@ I need you, you, you
 
 I need you to catch each breath that issues from my lips
 I need someone to crack my skull, I need someone to kiss
-So hold me now and make pretend that I won't ever fall",../audio/spectrograms/561857.png
--0.308877816114,-0.102690794138,Eurythmics,Put The Blame On Me,"Put the blame on me
+So hold me now and make pretend that I won't ever fall",../audio/spectrograms/561857.png,2
+"Put the blame on me
 Put the blame on me
 
 Take me to a dark room
@@ -3132,8 +3132,8 @@ Put the blame on me
 
 Why did you close your eyes
 When I'm the one that's blind?
-Why did you close your eyes?",../audio/spectrograms/561862.png
-1.0719011311700002,0.8468301807240001,Jamie Foxx,Can I Take U Home,"You know what I want want
+Why did you close your eyes?",../audio/spectrograms/561862.png,2
+"You know what I want want
 I know what you want want
 Tell me what I want want
 I'll tell you what you want want
@@ -3161,8 +3161,8 @@ Can I take you home girl (can I take you home girl)
 Get you all alone girl (get you all alone girl)
 And do you like I want to (aayyeah)
 Kiss you like I want to (kiss it like I want to)
-Can I take you home girl",../audio/spectrograms/561993.png
-0.3733252210800001,-0.923150665621,Jamie Foxx,Do What It Do,"You know what, I'mma make it do what it do baby
+Can I take you home girl",../audio/spectrograms/561993.png,0
+"You know what, I'mma make it do what it do baby
 I'mma make it do what it do baby
 
 Now baby I just wanna take your freakin' clothes off
@@ -3183,8 +3183,8 @@ I think you betta wise up 'cause I'm about to rise up
 Now what you wanna do, you wanna get high, you wanna get fired up
 What you wanna do, you wanna get sexed, you wanna get tied up
 Get your rodeo wired up, baby girl lift them thighs up
-I think you betta wise up 'cause I'm about to rise up",../audio/spectrograms/561997.png
-0.722613176124,-0.0381602424484,Jamie Foxx,Storm (Forecass),"Got nothing but my t-shirt and boxers on
+I think you betta wise up 'cause I'm about to rise up",../audio/spectrograms/561997.png,3
+"Got nothing but my t-shirt and boxers on
 Waiting for you to get home
 It's been sunny outside all day baby
 I can't wait for it to storm
@@ -3201,8 +3201,8 @@ I want the rain to come
 
 Lights out like a power outage
 'Cause of the lighting in your bedspring showers
-I can feel the mist everytime we kissed",../audio/spectrograms/561998.png
-0.823579225628,0.25222724015500003,Jamie Foxx,Heaven,"Tell me have you heard the story
+I can feel the mist everytime we kissed",../audio/spectrograms/561998.png,3
+"Tell me have you heard the story
 That took place not long ago
 Bout an angel up in heaven
 They say she up and ran away from home
@@ -3213,8 +3213,8 @@ Well you know I'm so elated
 Because she's laying right here next to me
 
 And when God woke up that morning
-And he called out her name",../audio/spectrograms/562000.png
-1.0719011311700002,0.8468301807240001,Jamie Foxx,Wish U Were Here,"By the time you get this letter
+And he called out her name",../audio/spectrograms/562000.png,0
+"By the time you get this letter
 I might be doin better
 It's kinda hard trying to survive
 In all this crazy weather.
@@ -3239,8 +3239,8 @@ I wish u were here
 To celebrate with me
 I wish u were here.
 
-Now all of these people ask me",../audio/spectrograms/562001.png
--1.70057201199,1.84244440679,Shakira,How Do You Do,"Forgive us our trespasses
+Now all of these people ask me",../audio/spectrograms/562001.png,0
+"Forgive us our trespasses
 As we forgive those who have trespassed against us
 Give us this day our daily bread
 Daily bread, daily bread
@@ -3268,8 +3268,8 @@ Well, that's okay 'cause we all have
 But if I forgive yours
 Will you forgive mine?
 
-Hey, do you feel our pain and walk in our shoes?",../audio/spectrograms/562485.png
-0.815392789182,0.662457175897,Shakira,Animal City,"Why do all my friends now want to be your lovers?
+Hey, do you feel our pain and walk in our shoes?",../audio/spectrograms/562485.png,1
+"Why do all my friends now want to be your lovers?
 Your family got bigger when they thought you were rich
 And now like maniacs, they scratch your back
 Even when it doesn't itch
@@ -3291,8 +3291,8 @@ So be obedient, don't argue
 Some are ready to bite you, my love
 
 They believe you now
-Have everything you wanted",../audio/spectrograms/562488.png
-0.218692532651,1.4030220786200005,Shakira,Don't Bother,"She's got the kind of look that defies gravity
+Have everything you wanted",../audio/spectrograms/562488.png,0
+"She's got the kind of look that defies gravity
 She's the greatest cook
 And she's fat-free
 
@@ -3313,8 +3313,8 @@ I won't die of deception
 I promise you won't ever see me cry
 Don't feel sorry
 
-And don't bother",../audio/spectrograms/562489.png
--0.959699513598,-0.132651407423,Shakira,Your Embrace,"Tell me, what's the use of a 24-inch waist
+And don't bother",../audio/spectrograms/562489.png,0
+"Tell me, what's the use of a 24-inch waist
 If you don't touch me?
 Tell me, what's the use again
 Of being on TV every day if you don't watch me?
@@ -3326,8 +3326,8 @@ But you're my only friend, my best friend
 
 Hope it isn't too late to say ""I love you""
 Hope it isn't too late to say that without you
-This place looks like London, it rains every day",../audio/spectrograms/562493.png
--1.70057201199,1.84244440679,Shakira,Costume Makes the Clown,"Told you I felt lucky with my humble breasts
+This place looks like London, it rains every day",../audio/spectrograms/562493.png,2
+"Told you I felt lucky with my humble breasts
 Well, I don't
 Said that I was sure the world was gonna change
 Well, I'm not
@@ -3339,8 +3339,8 @@ So look at how
 Taking the make-up off my face
 Before I forget my own features
 
-'Cause I'm not here to let you down",../audio/spectrograms/562494.png
-0.815392789182,0.662457175897,Shakira,Timor,"Timor, Timor
+'Cause I'm not here to let you down",../audio/spectrograms/562494.png,1
+"Timor, Timor
 Yale, Yale
 East Timor, Timor, Timor
 Timor, Timor, Timor
@@ -3363,16 +3363,16 @@ And that's what we promote
 
 Isn't it? Isn't it?
 Isn't it? Isn't it?
-",../audio/spectrograms/562496.png
-0.3733252210800001,-0.923150665621,Matisyahu,Lord Raise Me Up,"Said I been gone for so long where my mind been at
+",../audio/spectrograms/562496.png,0
+"Said I been gone for so long where my mind been at
 Wont you please wake me up wont you please bring me back
 Daydream fantasy and my mind went to sleep
 Eyes closed up from you with my heart heavy
 So wont you please wake me up and shake me up and take me up said babylon will make me shock wave yes I had enough
 So open up and lift the gates redemption coming like a run away truck
 Op! diggy do-do-do, you make my heart want to serve you and I'm bound to erupt you lift me up from quick sand in a world gone corrupt no longer stuck up up and away we go Yerushalayim is our home
-",../audio/spectrograms/563007.png
-1.17832480497,1.18331091453,Jessica Simpson,A Public Affair,"There go the street lights, the night's officially on
+",../audio/spectrograms/563007.png,3
+"There go the street lights, the night's officially on
 I got the green light, to do what ever I want
 
 I'm gonna stand outside, the box and put the rules on hold
@@ -3391,8 +3391,8 @@ And talk to me
 Here's an opportunity that you don't wanna miss
 
 Tonight Carte blanche first class for the evening
-",../audio/spectrograms/563776.png
-1.54125682076,1.70416465317,Ben Folds,In Between Days,"Yesterday I got so old
+",../audio/spectrograms/563776.png,0
+"Yesterday I got so old
 I felt like I could die
 Yesterday I got so old
 It made me wanna cry
@@ -3405,8 +3405,8 @@ Go on, go on
 And disappear
 Go on, go on
 Away from here
-",../audio/spectrograms/564578.png
--1.08749888257,0.0878279775202,Ben Folds,All U Can Eat,"Son, look at all the people in this restaurant
+",../audio/spectrograms/564578.png,0
+"Son, look at all the people in this restaurant
 What do you think they weigh?
 Out the window to the parking lot
 At their SUV's, taking all of the space
@@ -3416,8 +3416,8 @@ They talk as loud as they want
 They give no fuck
 Just as long as there's enough, for them
 
-Gonna get on the microphone down at Wal-Mart",../audio/spectrograms/564579.png
-1.26837560588,0.298320491362,Ben Folds,Songs Of Love,"Pale, pubescent beasts
+Gonna get on the microphone down at Wal-Mart",../audio/spectrograms/564579.png,1
+"Pale, pubescent beasts
 Roam through the streets
 And coffee-shops
 
@@ -3432,8 +3432,8 @@ In bedrooms above
 Composing their songs of love
 
 Young, uniform minds
-In uniform lines",../audio/spectrograms/564580.png
--0.0396350174366,-0.127273861451,Ben Folds,Learn To Live With What You Are,"I know that you're in there
+In uniform lines",../audio/spectrograms/564580.png,0
+"I know that you're in there
 I can see you
 You're saying you're okay
 I don't believe you
@@ -3446,8 +3446,8 @@ Like any day, just another day
 There's never gonna be a moment of truth for you
 While the world is watching, ohh ohh
 Ohh, all you need is the thing you've forgotten
-And that's to learn to live with what you are",../audio/spectrograms/564582.png
-1.54125682076,1.70416465317,Gloria Estefan,Live For Loving You,"Ooh, la, la, la, la, la, la, la
+And that's to learn to live with what you are",../audio/spectrograms/564582.png,2
+"Ooh, la, la, la, la, la, la, la
 La, la, la, la, la, la, la
 
 Lyin' awake, I turn to you
@@ -3466,8 +3466,8 @@ Oh why, I wonder, wonder, wonder why?
 
 I need nothing else in life than to hold you
 I, oh, I am in so deep, I don't need no sleep
-I just need you here with me",../audio/spectrograms/565385.png
--0.06983387188130001,-0.58206060669,Terence Trent D'Arby,Sign Your Name,"Fortunately you have
+I just need you here with me",../audio/spectrograms/565385.png,0
+"Fortunately you have
 Got someone who relies on you
 We started out as friends
 But the thought of you just caves me in The symptoms are so deepIt is much too late to turn away
@@ -3481,8 +3481,8 @@ I want you to be my lady
 Time I'm sure will bring
 Disappointments in so many things
 It seems to be the way
-When you're gambling cards on love you playI'd rather be in hell with you, baby",../audio/spectrograms/565489.png
--0.308877816114,-0.102690794138,Terence Trent D'Arby,Wishing Well,"Kissing like a bandit stealing time
+When you're gambling cards on love you playI'd rather be in hell with you, baby",../audio/spectrograms/565489.png,2
+"Kissing like a bandit stealing time
 Underneath the sycamore tree
 Cupid by the hour sends valentines
 To my sweet lover and me
@@ -3498,8 +3498,8 @@ Wish me love a wishing well, to kiss and tell
 A wishing well of crocodile cheers, sing
 
 Hugging like a monkey see, monkey do
-Right beside a riverboat gambler",../audio/spectrograms/565490.png
-0.909991610338,0.48115705448,Jamiroquai,Cosmic Girl,"I must've died and gone to heaven
+Right beside a riverboat gambler",../audio/spectrograms/565490.png,2
+"I must've died and gone to heaven
 'Cause it was quarter past eleven
 On a Saturday in 1999
 Right across from where I'm standing
@@ -3520,8 +3520,8 @@ She's from a cosmic world
 Putting me in ecstasy
 Transmitting on my frequency
 She's cosmic
-",../audio/spectrograms/565656.png
-0.909991610338,0.48115705448,Jamiroquai,Love Foolosophy,"Baby baby, I feel these sweet sensations
+",../audio/spectrograms/565656.png,0
+"Baby baby, I feel these sweet sensations
 Honey, honey, looks like a superstar
 She's got a promise of love struck fascination
 
@@ -3537,8 +3537,8 @@ Nothing to you
 So maybe I'm still a love fool
 
 She shimmers like a California sunset
-Lady, lady glitters but there's no gold",../audio/spectrograms/565661.png
-0.3733252210800001,-0.923150665621,Cypress Hill,Till Death Do Us Part,"(B-Real)
+Lady, lady glitters but there's no gold",../audio/spectrograms/565661.png,0
+"(B-Real)
 How many times have we been thru this
 I can tell you that it's getting harder everytime I try to resist
 We go way back and you held me down
@@ -3559,8 +3559,8 @@ That's why I dedicate this song
 Till Death Do Us Part
 I do
 
-(Verse Two: B-Real)",../audio/spectrograms/565970.png
-0.777189419099,0.187696688465,Toni Braxton,I Love Me Some Him,"I love me some him
+(Verse Two: B-Real)",../audio/spectrograms/565970.png,3
+"I love me some him
 I'll never love this way again
 I love me some you
 Another man will never do
@@ -3581,8 +3581,8 @@ The way you give me love feel so right
 You took the ease off my mind
 And put it behind
 You were there for all my needs
-So baby - stay",../audio/spectrograms/567646.png
-0.0158508295903,0.390506993776,Toni Braxton,Just Be A Man About It,"Hey, hey, hold up a minute
+So baby - stay",../audio/spectrograms/567646.png,0
+"Hey, hey, hold up a minute
 Let me stop up here and use this payphone real quick
 
 Hey, hey, Toni, it's me, I was just callin' ya know
@@ -3613,8 +3613,8 @@ Why you gotta lie to me?
 Just be a man about it
 Baby, you don't gotta lie to me, no
 Just be a man about it
-If you wanna leave (I can tell you wanna leave), go on now",../audio/spectrograms/567650.png
--1.01564016265,0.421235827911,Toni Braxton,Un-Break My Heart,"Don't leave me in all this pain
+If you wanna leave (I can tell you wanna leave), go on now",../audio/spectrograms/567650.png,0
+"Don't leave me in all this pain
 Don't leave me out in the rain
 Come back and bring back my smile
 Come and take these tears away
@@ -3633,8 +3633,8 @@ Un-break my heart
 My heart
 
 Take back that sad word good-bye
-Bring back the joy to my life",../audio/spectrograms/567656.png
--1.70057201199,1.84244440679,Toni Braxton,Seven Whole Days,"Seven whole days
+Bring back the joy to my life",../audio/spectrograms/567656.png,1
+"Seven whole days
 And not a word from you
 Seven whole nights
 I'm just about thru
@@ -3670,8 +3670,8 @@ Dead wrong to be
 Mistreating me
 
 How can we go on
-Seven whole days",../audio/spectrograms/567658.png
--0.278860882478,-0.268626498483,Blue Oyster Cult,Death Valley Nights,"Bleached by the Sun
+Seven whole days",../audio/spectrograms/567658.png,1
+"Bleached by the Sun
 And scorched by the Moon
 If I make it 'til tomorrow noon I'm leaving
 'Tween the horror of space
@@ -3682,8 +3682,8 @@ CHORUS
 What I need is a kiss from you, babe
 Before it's hangover time
 What I need is some love from you, babe
-Before this stampede arrives",../audio/spectrograms/567783.png
--0.954696691323,0.527250305687,Blue Oyster Cult,I Love The Night,"That night her kiss told me it was over
+Before this stampede arrives",../audio/spectrograms/567783.png,2
+"That night her kiss told me it was over
 I walked out late into the dark
 The misty gloom seems to soak up my sorrow
 The further I went on
@@ -3692,8 +3692,8 @@ Then suddenly my eyes were bathed in light
 And the lovely lady in white was by my side
 She said ""Like me I see you're walking alone
 Won't you please stay?""
-I couldn't look away",../audio/spectrograms/567789.png
-0.722613176124,-0.0381602424484,Ginuwine,When Doves Cry,"(Speaking)
+I couldn't look away",../audio/spectrograms/567789.png,1
+"(Speaking)
 What we gonna do right here
 Is take you way back
 Way back into time
@@ -3712,8 +3712,8 @@ Can you picture this
 Dream if you can a courtyard
 An ocean of violets in bloom
 Animals strike curious poses
-They feel the heat",../audio/spectrograms/567962.png
-1.0719011311700002,0.8468301807240001,Ginuwine,Differences,"Oh, yeah, oh, yeah
+They feel the heat",../audio/spectrograms/567962.png,3
+"Oh, yeah, oh, yeah
 Oh, yeah, babe
 
 My whole life has changed
@@ -3737,8 +3737,8 @@ I really don't know just where I'd be at
 My whole life has changed (My whole life has changed)
 Since you came in, I knew back then (Ooh... oh...)
 You were that special one (You were baby)
-I'm so in love, so deep in love",../audio/spectrograms/567968.png
--1.04019947199,-0.06581619317250001,Kristin Chenoweth,Poor_ Wayfaring Stranger,"I am a poor, wayfaring stranger
+I'm so in love, so deep in love",../audio/spectrograms/567968.png,0
+"I am a poor, wayfaring stranger
 Wandering o'er this world of woe
 But there's no sickness, no toil no danger
 That bright land to which I go
@@ -3747,8 +3747,8 @@ I'm going home to see my father
 I'm going home, no more to roam
 I'm only going over Jordan
 I'm just a going over home
-",../audio/spectrograms/568919.png
--0.163341168178,-0.244043431169,Brandi Carlile,Follow,"Follow your heart and see where it might take you
+",../audio/spectrograms/568919.png,2
+"Follow your heart and see where it might take you
 Don't let the world outside there break you
 They know not who you are inside
 They have never felt your hell
@@ -3760,8 +3760,8 @@ Before you know it you'll be frozen
 You have to see this through
 There's no one here but you
 
-I feel the rain coming down",../audio/spectrograms/569945.png
--0.13859993802999998,0.461490600634,Brandi Carlile,What Can I Say,"Look to the clock on the wall
+I feel the rain coming down",../audio/spectrograms/569945.png,2
+"Look to the clock on the wall
 Hands hardly moving at all
 I can't stand the state that I'm in
 Sometimes it feels like the walls closing in
@@ -3773,8 +3773,8 @@ Alone is the last place I wanted to be
 Lord, what can I say?
 
 Trap all my troubles away
-Drowns my sorrows the same way",../audio/spectrograms/569947.png
--0.431674362809,0.0955101860516,Brandi Carlile,Someday Never Comes,"Dear love I miss you much
+Drowns my sorrows the same way",../audio/spectrograms/569947.png,1
+"Dear love I miss you much
 I miss your smile and I miss your touch
 But I found a place where I can erase my past
 Maybe someday when you're old and gray
@@ -3783,8 +3783,8 @@ You might see me standing, hat in hand
 
 I have to go away
 I've got no reason to stay here
-You said someday you'll change",../audio/spectrograms/569952.png
--0.431674362809,0.0955101860516,Brandi Carlile,In My Own Eyes,"Hold me down lift me up
+You said someday you'll change",../audio/spectrograms/569952.png,1
+"Hold me down lift me up
 There's someone on the bedside waiting there for me
 I hear my name, turn around
 There's gotta be a downside, something I don't see
@@ -3798,8 +3798,8 @@ In my own eyes
 
 Something's wrong
 Awake all night
-'Cause I can feel the dark side",../audio/spectrograms/569954.png
--0.517359064281,-0.0123480217725,Brandi Carlile,Tragedy,"Sorry, I'm only
+'Cause I can feel the dark side",../audio/spectrograms/569954.png,1
+"Sorry, I'm only
 Human, you know me
 Grown up, oh no guess again
 
@@ -3809,8 +3809,8 @@ Sometimes I could do that too
 But make no mistake that
 
 When you need a friend
-You could count on anyone",../audio/spectrograms/569958.png
--1.04019947199,-0.06581619317250001,Brandi Carlile,Fall Apart Again,"Long is the day, take it away
+You could count on anyone",../audio/spectrograms/569958.png,2
+"Long is the day, take it away
 Hold it up and you don't let it fall
 Cause devil's play was yesterday
 And I don't care about that at all
@@ -3825,8 +3825,8 @@ And you can find a friend
 Don't turn to someone else
 Cause they won't understand
 
-Self respect, goes unexpressed",../audio/spectrograms/569971.png
-1.2601891694299998,1.14643631357,Switchfoot,Stars,"Maybe I've been the problem, maybe I'm the one to blame
+Self respect, goes unexpressed",../audio/spectrograms/569971.png,2
+"Maybe I've been the problem, maybe I'm the one to blame
 But even when I turn it off and blame myself, the outcome feels the same
 I've been thinkin' maybe I've been partly cloudy, maybe I'm the chance of rain
 And maybe I'm overcast, and maybe all my lucks washed down the drain
@@ -3840,8 +3840,8 @@ When I look at the stars
 I see someone else
 When I look at the stars
 The stars, I feel like myself
-",../audio/spectrograms/570945.png
-1.14285024704,1.07115066993,Backstreet Boys,Just Want You To Know,"Looking at your picture from when we first met
+",../audio/spectrograms/570945.png,0
+"Looking at your picture from when we first met
 You gave me a smile that I could never forget
 And nothing I could do could protect me from you that night
 
@@ -3859,8 +3859,8 @@ That there's a day you'll come back to me
 But still I have to say
 I would do it all again
 Just want you to know
-",../audio/spectrograms/571073.png
-0.815392789182,0.662457175897,Oasis,Eyeball Tickler,"Listen to the monkey
+",../audio/spectrograms/571073.png,0
+"Listen to the monkey
 Feeding on your brain
 I feel okay
 No pain!
@@ -3875,8 +3875,8 @@ I've been tripping now for days
 And there is no way
 You don't say!
 
-I got my drip drab velcro moustache",../audio/spectrograms/571108.png
-0.3733252210800001,-0.923150665621,Eliane Elias,Time Alone,"When the days are quiet
+I got my drip drab velcro moustache",../audio/spectrograms/571108.png,0
+"When the days are quiet
 All alone inside the silence
 I can hear the raindrops
 Tapping rhythm to the hours
@@ -3884,8 +3884,8 @@ Tapping rhythm to the hours
 I play some music, sing my loneliness
 So quiet I remain
 
-And the light so quiet",../audio/spectrograms/571549.png
-1.54125682076,1.70416465317,Emma Roberts,Punch Rocker,"You can't always be fabulous or in control
+And the light so quiet",../audio/spectrograms/571549.png,3
+"You can't always be fabulous or in control
 Sometimes you just got to roll
 With the punches or the punch bowl
 I can handle a few new names
@@ -3901,8 +3901,8 @@ I'm a punch rocker
 I'm a punch rocker
 I'm a punch rocker
 I'm a punch, punch, punch, punch rocker
-",../audio/spectrograms/572034.png
-1.0719011311700002,0.8468301807240001,Darin,Who's that girl,"I saw her last night
+",../audio/spectrograms/572034.png,0
+"I saw her last night
 Standing in the crowd
 And in a sudden flash of glory
 I was blinded
@@ -3920,8 +3920,8 @@ Huh, this is no ordinary crush
 If I have to I'll go halfway round the world
 Who's that girl?
 
-Angeleyes of mine",../audio/spectrograms/573853.png
-0.8754266564550001,-0.743386985914,Teddy Geiger,For You I Will (Confidence),"Wandering the streets in a world underneath it all
+Angeleyes of mine",../audio/spectrograms/573853.png,0
+"Wandering the streets in a world underneath it all
 Nothing seems to be, nothing tastes as sweet as what I can't have
 
 Like you and the way that you're twisting your hair round your finger
@@ -3936,8 +3936,8 @@ For you I will
 Forgive me if I st-stutter from all of the clutter in my head
 'Cause I could fall asleep in those eyes like a water bed
 
-Do I seem familiar? I've crossed you in hallways a thousand times",../audio/spectrograms/573990.png
-0.722613176124,-0.0381602424484,Teddy Geiger,Seven Days Without You,"Sitting here counting the hours
+Do I seem familiar? I've crossed you in hallways a thousand times",../audio/spectrograms/573990.png,3
+"Sitting here counting the hours
 Waiting for the sun to kiss the sea
 Paralyzed by the fragrance of the flowers
 They remind me of you and me
@@ -3947,8 +3947,8 @@ Our two hearts of a kind
 These three reasons you'll be mine
 For theres five or six ways through
 Seven days without you
-Seven days without you",../audio/spectrograms/573998.png
-1.26291798158,0.8468301807240001,Teddy Geiger,Love Is A Marathon,"You love to run
+Seven days without you",../audio/spectrograms/573998.png,3
+"You love to run
 Into the arms of anyone
 Take off your shoes
 And socks and stay awhile
@@ -3959,8 +3959,8 @@ You go from day to day, hand to mouth
 And wonder why you're unsatisfied
 
 'Cause love is a marathon
-That's why you get tired so fast of everyone",../audio/spectrograms/574005.png
-1.0719011311700002,0.8468301807240001,Martina McBride,True Love Ways,"Just you know why
+That's why you get tired so fast of everyone",../audio/spectrograms/574005.png,0
+"Just you know why
 Why you and I
 Will by and by
 Know true love ways
@@ -3969,16 +3969,16 @@ Sometimes we'll sigh
 Sometimes we'll cry
 And we'll know why just you and I
 Know true love ways
-",../audio/spectrograms/574105.png
-1.54125682076,1.70416465317,Martina McBride,I'll Be There,"There ain't no chains strong enough to hold me
+",../audio/spectrograms/574105.png,0
+"There ain't no chains strong enough to hold me
 Ain't no breeze big enough to slow me
 Never have seen a river that's too wide
 Now there ain't no rope strong enough to bind me
 Look for me, honey you will find me
 I'll be there if you ever want me by your side.
 
-So love me if you ever gonna love me",../audio/spectrograms/574153.png
--1.70057201199,1.84244440679,Bullet For My Valentine,Hand Of Blood,"There goes my valentine again
+So love me if you ever gonna love me",../audio/spectrograms/574153.png,0
+"There goes my valentine again
 Soaked in red for what she said
 And now she's gone
 
@@ -3995,8 +3995,8 @@ I don't wanna see
 My life is burning
 
 I saw you look away
-Is what you've seen too much to take",../audio/spectrograms/574462.png
-1.0719011311700002,0.8468301807240001,Charlotte Church,Even God,"Even God can't change the past
+Is what you've seen too much to take",../audio/spectrograms/574462.png,1
+"Even God can't change the past
 No matter how many tears I've cried
 Yes, I thought this love would last
 Who am I to question why?
@@ -4014,8 +4014,8 @@ Even when I've been denied
 Who's loving who?
 Who's fooling who?
 
-Even God can't change the past",../audio/spectrograms/574620.png
-0.966387061416,0.256836565276,Teddy Geiger,These Walls,"I can't believe what is in front of me
+Even God can't change the past",../audio/spectrograms/574620.png,0
+"I can't believe what is in front of me
 The water is rising up to my knees
 And I can't figure out
 How the hell I wound up here
@@ -4031,8 +4031,8 @@ And even when I'm scared I have to try to fly
 Sometimes I fall
 But I've seen it done before
 
-I got to step outside these walls",../audio/spectrograms/574653.png
-1.54125682076,1.70416465317,Charlotte Church,Call My Name,"I like the sound of your belt dropping
+I got to step outside these walls",../audio/spectrograms/574653.png,0
+"I like the sound of your belt dropping
 Your door locking, you jangle your keys, yeah
 I like the sound of your heart stopping
 Of lip locking, the grazing of knees, yeah
@@ -4042,8 +4042,8 @@ I like the sound of back on the wall, yeah
 Shelves falling, oh yes indeed!
 
 And I love it when you call my name
-I love it when you call my name",../audio/spectrograms/574729.png
-0.5943590051309999,-0.130346744862,Charlotte Church,Show A Little Faith,"Well I don't really mind
+I love it when you call my name",../audio/spectrograms/574729.png,0
+"Well I don't really mind
 Where you wanna go
 'Cause everybody sometimes
 Feels the need to be alone
@@ -4065,8 +4065,8 @@ When nothing's making sense
 And the questions never end
 You gotta let it go
 Every now and then
-I can't pretend",../audio/spectrograms/574732.png
-0.815392789182,0.662457175897,Montgomery Gentry,Hell Yeah,"He works way too much for way too little
+I can't pretend",../audio/spectrograms/574732.png,3
+"He works way too much for way too little
 He drinks way too early till way too late
 He hasn't had a raise since New Year's Day
 In eighty-eight gets trampled on by everyone
@@ -4091,8 +4091,8 @@ Sounds good!
 Sing that song!
 Guitar man playin' all night long
 Take me back to where the music hit me
-Life was good and love was easy",../audio/spectrograms/575023.png
--1.04019947199,-0.06581619317250001,Three 6 Mafia,Late Nite Tip,"Let me just take you somewhere secret
+Life was good and love was easy",../audio/spectrograms/575023.png,0
+"Let me just take you somewhere secret
 Gonna cut all the lil lights down dim forget all
 About your world
 We gonna just flow it what we feel and share uhh
@@ -4129,8 +4129,8 @@ X2
 I'm not the type to get involved in long relationships (why)
 Takin' trips and buyin' gifts
 I'm sorry your not on the tip (what)
-If you want romance",../audio/spectrograms/575158.png
--1.74423300637,1.3354186435200002,Eurythmics,Never Gonna Cry Again,"I'm never gonna cry again
+If you want romance",../audio/spectrograms/575158.png,2
+"I'm never gonna cry again
 I'm never gonna die again
 I shed some tears for you
 I shed more tears for you than the ocean
@@ -4141,13 +4141,13 @@ I didn't wanna let you know
 I didn't wanna take your time
 
 I didn't wanna bring you down
-I didn't want to hang around you",../audio/spectrograms/575441.png
-1.0719011311700002,0.8468301807240001,Michael Bolton,A Love So Beautiful,"The summer sun went down on our love long ago
+I didn't want to hang around you",../audio/spectrograms/575441.png,1
+"The summer sun went down on our love long ago
 But in my heart I feel the same old after glow
 A love so beautiful in every way
 A love so beautiful we let it slip away
-",../audio/spectrograms/575596.png
-1.0719011311700002,0.8468301807240001,Eurythmics,Thorn In My Side,"Yeah
+",../audio/spectrograms/575596.png,0
+"Yeah
 
 You gave me such a bad time
 Tried to hurt me
@@ -4161,8 +4161,8 @@ I should have known better
 But I trusted you at first
 I should have known better
 But I got what I deserved
-Whoa-whoa-whoa-whoa",../audio/spectrograms/576120.png
-0.815392789182,0.662457175897,Survivor,Burning Heart,"Two worlds collide
+Whoa-whoa-whoa-whoa",../audio/spectrograms/576120.png,0
+"Two worlds collide
 Rival nations
 It's a primitive clash
 Venting years of frustration
@@ -4184,8 +4184,8 @@ In the darkest night
 Rising like a spire
 In the burning heart
 The unmistakable fire
-",../audio/spectrograms/576423.png
-1.0719011311700002,0.8468301807240001,Michael Bolton,How Am I Supposed To Live Without You,"I could hardly believe it
+",../audio/spectrograms/576423.png,0
+"I could hardly believe it
 When I heard the news today
 I had to come and get it straight from you
 
@@ -4198,8 +4198,8 @@ Oh, tell me one thing more before I go
 
 Tell me how am I supposed to live without you
 Now that I've been lovin' you so long
-How am I supposed to live without you",../audio/spectrograms/576844.png
-1.17832480497,1.18331091453,The Strokes,You Only Live Once,"Some people think they're always right
+How am I supposed to live without you",../audio/spectrograms/576844.png,0
+"Some people think they're always right
 Others are quiet and uptight
 Others, they seem so very nice-nice-nice-nice, oh
 Inside they might feel sad and wrong, oh, no
@@ -4212,8 +4212,8 @@ And twenty ways to start a fight, oh
 Oh don't, don't, don't get up
 I can't see the sunshine
 I'll be waiting for you, baby
-'Cause I'm through",../audio/spectrograms/577749.png
--1.37857217843,1.28932539231,Our Lady Peace,Wipe That Smile Off Your Face (Live in Toronto),"It's just the two of us
+'Cause I'm through",../audio/spectrograms/577749.png,0
+"It's just the two of us
 A silver cross
 And some strength that you won't believe
 See I'm not your friend
@@ -4226,8 +4226,8 @@ I'm gonna wipe that smile off your face
 And this is war ...
 And I'm gonna wipe that smile off your face
 The time has come
-To drop the bomb",../audio/spectrograms/577763.png
--0.333437125453,-0.494483429397,Our Lady Peace,Apology,"You, you're me
+To drop the bomb",../audio/spectrograms/577763.png,1
+"You, you're me
 I'm the lock, you're the key
 You're the air, the air, I breathe
 But tonight I'm choking
@@ -4235,8 +4235,8 @@ But tonight I'm choking
 You are my life
 You are my life
 
-You, you're the sea",../audio/spectrograms/577770.png
--0.4071150534699999,-0.84940146369,Sarah McLachlan,Time,"Time here, all but means nothing
+You, you're the sea",../audio/spectrograms/577770.png,2
+"Time here, all but means nothing
 Just shadows that move 'cross the wall
 They keep me company, but they don't ask of me
 They don't say nothing at all
@@ -4250,8 +4250,8 @@ Would you give me no choice in this?
 I know you can't resist
 Trying to re-open a sore
 
-Leave me be, I don't want to argue",../audio/spectrograms/577807.png
-0.3733252210800001,-0.923150665621,Cyndi Lauper,Water's Edge,"I went to the water's edge, forgot I couldn't swim
+Leave me be, I don't want to argue",../audio/spectrograms/577807.png,2
+"I went to the water's edge, forgot I couldn't swim
 I went to the water's edge, all ready to jump in
 I saw the water shimmer
 I heard the wind howl
@@ -4263,8 +4263,8 @@ To somehow co-exist
 That eventually life unfurls
 A path to happiness
 
-So, I whisper your little secret",../audio/spectrograms/577821.png
-0.3733252210800001,-0.923150665621,Train,All I Ever Wanted,"You were my ticket outta here
+So, I whisper your little secret",../audio/spectrograms/577821.png,3
+"You were my ticket outta here
 And I was your dream come true
 You gave me everything I ever wanted
 Except for you
@@ -4278,8 +4278,8 @@ No more, hold on we can make it
 No more holding each other while the words all break it
 Move on you know we'll be stronger in the end
 
-Now I convinced myself that nothing could ever tear me away",../audio/spectrograms/577907.png
-0.815392789182,0.662457175897,Train,For Me_ It's You,"If I ever find truth I'm gonna let you know
+Now I convinced myself that nothing could ever tear me away",../audio/spectrograms/577907.png,3
+"If I ever find truth I'm gonna let you know
 If I ever find faith I'm gonna sit in every bit of its afterglow
 If I ever find a way to bring love here today
 You better bet your life that this is what I'll say
@@ -4294,8 +4294,8 @@ For me it's you
 
 Give it away, give it away, give it away
 If it's something that you got layin' round your house
-Man let me tell ya if ain't a kiss",../audio/spectrograms/577924.png
--1.70057201199,1.84244440679,Say Anything,Belt,"I wouldn't sell my belt to industry
+Man let me tell ya if ain't a kiss",../audio/spectrograms/577924.png,0
+"I wouldn't sell my belt to industry
 So they carded me and they carted me off
 Naked but that belt around my waist
 It was my father's once, I still see his face
@@ -4309,8 +4309,8 @@ Naked but that belt I wear so well
 Past the pyramids and the liberty bell
 
 I said whoa, they carted me off
-Yeah, whoa, they carded me",../audio/spectrograms/578060.png
--1.70057201199,1.84244440679,Say Anything,An Orgy Of Critics,"Sweep the black super market! Sweep it up with your teeth!
+Yeah, whoa, they carded me",../audio/spectrograms/578060.png,1
+"Sweep the black super market! Sweep it up with your teeth!
 Put your feather in a box! (Take off! Take off!)
 Send it off to me!
 I smell oxygen, precious. Bareback on your horse.
@@ -4326,8 +4326,8 @@ There's a fire in the peach pit (3x)
 Saw you fake it...
 
 You brought me to my knees.
-Your art, it brought me to my knees.",../audio/spectrograms/578072.png
--1.9352498567900005,-0.655809808621,Living Colour,Elvis Is Dead,"Tabloids scream
+Your art, it brought me to my knees.",../audio/spectrograms/578072.png,1
+"Tabloids scream
 Elvis seen at a shopping mall
 That's the kind of talk
 That makes my stomach crawl
@@ -4341,8 +4341,8 @@ You can't 'cause
 
 Elvis is dead
 Elvis is dead
-Elvis is dead",../audio/spectrograms/578284.png
-1.54125682076,1.70416465317,Sarah McLachlan,Have Yourself A Merry Little Christmas,"Have yourself a merry little Christmas
+Elvis is dead",../audio/spectrograms/578284.png,2
+"Have yourself a merry little Christmas
 Let your heart be light
 From now on our troubles will be out of sight
 
@@ -4350,8 +4350,8 @@ Have yourself a merry little Christmas
 Make the Yule-tide gay
 From now on our troubles will be miles away
 
-Here we are as in olden days",../audio/spectrograms/579605.png
--0.714106420208,-0.579755944129,Foo Fighters,Razor,"Wake up it's time
+Here we are as in olden days",../audio/spectrograms/579605.png,0
+"Wake up it's time
 We need to find a better place to hide
 Make up your mind
 I need to know I need to know tonight
@@ -4361,8 +4361,8 @@ Razor of mine
 Sweet and divine
 Razorblade shine
 
-Patience my dear",../audio/spectrograms/579683.png
--0.574482198597,-0.08425349365530001,Foo Fighters,Another Round,"When she goes storming out
+Patience my dear",../audio/spectrograms/579683.png,2
+"When she goes storming out
 I run for cover
 Rolling like thunder clouds
 Hanging above her
@@ -4373,8 +4373,8 @@ Sinking deep below
 
 Can you go another round
 I will follow you down and out
-Let's go another round",../audio/spectrograms/579687.png
--0.227013451651,0.102424173733,Foo Fighters,Ain't It The Life,"Dear haley
+Let's go another round",../audio/spectrograms/579687.png,2
+"Dear haley
 Can you save me from
 The borrowed cloud I'm on
 All you've gotta do is try
@@ -4392,8 +4392,8 @@ Wait until my bomb goes off
 See the actors run and hide
 Fake it all in stride
 One day we all can say where we're gone
-And haunt the ground we're from",../audio/spectrograms/579698.png
-0.3733252210800001,-0.923150665621,DJ Quik,Summer Breeze,"Now even though I was only a young buck, I was still trying to kick it
+And haunt the ground we're from",../audio/spectrograms/579698.png,1
+"Now even though I was only a young buck, I was still trying to kick it
 Having a gang of fun and much too young to be wicked
 'Cause when I was thirteen you know we didn't have cars
 It was either double ride the peg nuts or hop on the handle bars
@@ -4422,8 +4422,8 @@ Now I'm growing some fuzz, getting older like 17 or 18
 And the only thing I know is to stay clean
 T-shirt, short pants, Nike's on spotless
 I was even old enough to buy me a cutlass
-",../audio/spectrograms/579773.png
--1.9352498567900005,-0.655809808621,Tanya Tucker,What's Your Mama's Name Child,"What's your mama's name child?
+",../audio/spectrograms/579773.png,3
+"What's your mama's name child?
 What's your mama's name?
 
 Thirty some odd years ago, a young man came to Memphis
@@ -4433,8 +4433,8 @@ Until one day they heard him ask a little green-eyed girl
 
 What's your mama's name, child?
 What's your mama's name?
-Does she ever talk about a place called New Orleans?",../audio/spectrograms/579847.png
-0.815392789182,0.662457175897,Rick Springfield,Jessie's Girl,"Jessie is a friend
+Does she ever talk about a place called New Orleans?",../audio/spectrograms/579847.png,2
+"Jessie is a friend
 Yeah, I know, he's been a good friend of mine
 But lately something's changed that ain't hard to define
 Jessie's got himself a girl and I want to make her mine
@@ -4449,8 +4449,8 @@ I wish that I had Jessie's girl
 Where can I find a woman like that?
 
 I'll play along with the charade
-There doesn't seem to be a reason to change",../audio/spectrograms/580060.png
-1.0719011311700002,0.8468301807240001,Jessica Simpson,Walkin' 'Round In A Circle,"Life is a sponge ball
+There doesn't seem to be a reason to change",../audio/spectrograms/580060.png,0
+"Life is a sponge ball
 Thrown with the wild dawn
 And if I'm gonna swing then
 I must get motivated
@@ -4473,8 +4473,8 @@ It's like a toss up, I gotta get of here
 'Cause I'm tired of the motions
 
 I'm in blue, no more
-Walkin' 'round in a circle",../audio/spectrograms/580118.png
-1.28474847877,1.43682379617,Jessica Simpson,Push Your Tush,"Come and get it
+Walkin' 'round in a circle",../audio/spectrograms/580118.png,0
+"Come and get it
 Did ya hear that cow bell?
 Cock-a, cock-a, cock-a-doodle-doo
 Come and get some grub
@@ -4500,8 +4500,8 @@ Cowgirls, cowboys make noise round here
 This is honky tonk baby, gonna get crazy round here
 
 All these farm boys ya wanna see somethin' slick
-Girls, turn your hips like a joy stick",../audio/spectrograms/580124.png
--1.71694488488,0.026370309241299995,Jessica Simpson,I Don't Want To Care,"Here's another day
+Girls, turn your hips like a joy stick",../audio/spectrograms/580124.png,0
+"Here's another day
 Another girl left so confused
 Trying to find a way
 In the common likes of you
@@ -4524,8 +4524,8 @@ But now I care way too much
 Now this love thing I wish I never felt it before
 I don't wanna care anymore
 
-Trying to brace myself",../audio/spectrograms/580130.png
--1.62689408397,0.1508220875,Jessica Simpson,Fly,"When the weather is cold
+Trying to brace myself",../audio/spectrograms/580130.png,1
+"When the weather is cold
 When money is low
 It's better with someone to hold
 And when the road up ahead
@@ -4541,8 +4541,8 @@ Everyone wants to be kissing on new years eve
 Underneath the mistletoe
 While it's snowing outside
 Making fireworks like it's the forth of July
-",../audio/spectrograms/580134.png
-0.262808329055,0.243008589914,Michael Penn,No Myth,"So
+",../audio/spectrograms/580134.png,1
+"So
 She says it's time she goes
 But wanted to be sure I know
 She hopes we can be friends
@@ -4557,8 +4557,8 @@ What if I were Romeo in black jeans
 What if I was Heathcliff, it's no myth
 Maybe she's just looking for
 Someone to dance with
-",../audio/spectrograms/580354.png
--0.595948854166,-0.648434888428,Michael Penn,Walter Reed,"I count the cases piled up high
+",../audio/spectrograms/580354.png,0
+"I count the cases piled up high
 For the one-fifteen
 For platform and for passerby
 It's the same routine
@@ -4575,8 +4575,8 @@ And make no mistake, I'm mad
 'Cause every good thing I've had
 Abandoned me.
 
-All I want to do is hide",../audio/spectrograms/580391.png
-0.815392789182,0.662457175897,Destiny's Child,Jumpin'_ Jumpin',"Ladies, leave your man at home
+All I want to do is hide",../audio/spectrograms/580391.png,2
+"Ladies, leave your man at home
 The club is full of ballers
 And they're pockets full grown
 And all you fellas, leave your girl with her friends
@@ -4623,8 +4623,8 @@ Yes, it's true you got a man
 But the party ain't gon' stop
 So let's make it hot, hot
 
-Call your boys",../audio/spectrograms/580931.png
-1.54125682076,1.70416465317,The Zutons,Oh Stacey (Look What You've Done!),"Oh Stacey look what you've done,
+Call your boys",../audio/spectrograms/580931.png,0
+"Oh Stacey look what you've done,
 You think that you're the only one...
 
 Well, she should've went to school
@@ -4649,8 +4649,8 @@ Found him on the couch one night cold and stiff
 Now she drinks away the will and she's not proud of it
 
 Oh Stacey look what you've done,
-You think that you're the only one . . .",../audio/spectrograms/581072.png
--0.740030135621,0.21535263919,Clannad,Something To Believe In,"Everybody's rushing around,
+You think that you're the only one . . .",../audio/spectrograms/581072.png,0
+"Everybody's rushing around,
 Trying to keep a hold
 On some piece of mind
 All the time
@@ -4663,8 +4663,8 @@ They're always lies
 
 Well it's something
 Oh it's something to believe in
-You know it's something",../audio/spectrograms/581333.png
-0.984579142406,-0.010504291724200004,Kat DeLuna,Feel What I Feel,"Why can't you smile, shake a hand
+You know it's something",../audio/spectrograms/581333.png,1
+"Why can't you smile, shake a hand
 Joke around when you're under?
 Doesn't take that much to do it
 Sing a song when you're down
@@ -4691,8 +4691,8 @@ Can you feel me?
 Can you feel me?
 Can you feel me?
 
-See I don't mind, I don't hide",../audio/spectrograms/581374.png
-0.815392789182,0.662457175897,Kat DeLuna,Whine Up,"It's summertime
+See I don't mind, I don't hide",../audio/spectrograms/581374.png,3
+"It's summertime
 Ladies looking hot
 Shaking up what they've got
 Elephant Man and Kat, c'mon
@@ -4726,8 +4726,8 @@ Whine up, whine up, whine up, oye!
 Whine up, whine up, whine up, oye!
 Whine up, whine up, whine up, oye!
 Whine up, whine up, whine up, oye!
-",../audio/spectrograms/581375.png
--0.7272956789280001,0.382824785244,Kat DeLuna,Love Me_ Leave Me,"The very first day of my life
+",../audio/spectrograms/581375.png,0
+"The very first day of my life
 Was the day that you let me go
 It was a blessing in disguise
 Now I see that I'm beautiful
@@ -4751,8 +4751,8 @@ If only I could be myself
 Without your approval anymore
 If you love me, leave me
 If you love me, leave me alone
-",../audio/spectrograms/581376.png
-1.54125682076,1.70416465317,Kat DeLuna,Enjoy Saying Goodbye,"You keep on telling me what to do
+",../audio/spectrograms/581376.png,1
+"You keep on telling me what to do
 Baby, baby, baby, boo
 I'm saying, I'm saying goodbye
 
@@ -4768,8 +4768,8 @@ Like this is gonna really last
 
 No more hurt, no more lies, no, no, not this time
 Enough with your lies
-I believed in this love but you crossed this line",../audio/spectrograms/581381.png
--1.9352498567900005,-0.655809808621,Warrant,Sometimes She Cries,"Missy don't think she's pretty no more
+I believed in this love but you crossed this line",../audio/spectrograms/581381.png,0
+"Missy don't think she's pretty no more
 Starin' at the stars through her back screen door
 She tries and tries to make it all work out
 No matter what she does
@@ -4788,8 +4788,8 @@ It just tears her up inside
 Sometimes she cries
 Ooh, I wonder why
 
-Missy don't have a lover no more",../audio/spectrograms/581829.png
-1.0719011311700002,0.8468301807240001,Warrant,Heaven,"I've got a picture of your house
+Missy don't have a lover no more",../audio/spectrograms/581829.png,2
+"I've got a picture of your house
 And you're standing by the door.
 It's black and white and faded
 And it's looking pretty worn.
@@ -4804,16 +4804,16 @@ No matter what your friends might say
 How I love the way you move
 And the sparkle in your eyes
 There's a color deep inside them
-Like blue suburban skys",../audio/spectrograms/581835.png
--0.0763830210383,-0.454843233359,Modest Mouse,Blame It On The Tetons,"Blame it on the Tetons yeah I need a scapegoat now
+Like blue suburban skys",../audio/spectrograms/581835.png,0
+"Blame it on the Tetons yeah I need a scapegoat now
 No my dog won't bite you though it had the right to
 You oughta give her credit
 Cause she knows I would've let it happen
 
 Blame it on the weekends God I need a Cola now
 Oh we mumble loudly, wear our shame so proudly
-Wore our blank expressions tryin' to look interestin'",../audio/spectrograms/581919.png
-1.0522536837,0.710394157152,Modest Mouse,Float On,"I backed my car into a cop car the other day
+Wore our blank expressions tryin' to look interestin'",../audio/spectrograms/581919.png,2
+"I backed my car into a cop car the other day
 Well, he just drove off, sometimes life's ok
 I ran my mouth off a bit too much, oh, what did I say?
 Well, you just laughed it off, it was all ok
@@ -4825,8 +4825,8 @@ And we'll all float on anyway, well
 
 A fake Jamaican took every last dime with that scam
 It was worth it just to learn from sleight-of-hand
-Bad news comes, don't you worry even when it lands",../audio/spectrograms/581923.png
--1.20611125063,-0.181971186214,Ben Folds Five,Brick,"6 a.m. day after Christmas
+Bad news comes, don't you worry even when it lands",../audio/spectrograms/581923.png,0
+"6 a.m. day after Christmas
 I throw some clothes on in the dark
 The smell of cold, car seat is freezing
 The world is sleeping, I am numb
@@ -4841,8 +4841,8 @@ Now that I have found someone
 I'm feeling more alone
 Than I ever have before
 
-She's a brick and I'm drownin' slowly",../audio/spectrograms/582003.png
-0.722613176124,-0.0381602424484,Paul Young,Wherever I Lay My Hat (That's My Home),"By the look in your eye
+She's a brick and I'm drownin' slowly",../audio/spectrograms/582003.png,2
+"By the look in your eye
 I can tell you're gonna cry
 Is it over me?
 
@@ -4858,8 +4858,8 @@ I'm telling you that's my home
 You had romance
 Did you break it by chance
 Over me?
-",../audio/spectrograms/582083.png
--0.3416235618990001,-0.0934721438967,Ben Folds Five,Mitchell Lane,"Habit isn't bliss
+",../audio/spectrograms/582083.png,3
+"Habit isn't bliss
 Sunshine isn't missed
 Happy when you're cold
 Wanna be alone
@@ -4869,8 +4869,8 @@ She's alot of breath
 Takes a lot to see
 Takes a lot to beg
 
-CHORUS",../audio/spectrograms/582093.png
-0.524319493314,0.8283928802410001,Britney Spears,Let Me Be,"You try to read me, you try to figure out
+CHORUS",../audio/spectrograms/582093.png,2
+"You try to read me, you try to figure out
 You try to breath me, but you can't blow me out
 You try to feel me, but I'm so out of touch
 I wont be falling, you won't have to pick me up
@@ -4888,8 +4888,8 @@ Ain't my philosophy
 Won't you just let me, let me be?
 
 Trust in my instincts, trust that I know what's right
-These are the reasons that keep you up at night (At night)",../audio/spectrograms/582224.png
-0.815392789182,0.662457175897,Britney Spears,My Prerogative,"People can take everything away from you
+These are the reasons that keep you up at night (At night)",../audio/spectrograms/582224.png,0
+"People can take everything away from you
 But they can never take away your truth
 But the question is
 Can you handle mine?
@@ -4908,8 +4908,8 @@ Trying hard to make it right
 Not long ago, before I won this fight
 
 Everybody's talking all this stuff about me
-Why don't they just let me live? (tell me why)",../audio/spectrograms/582250.png
-0.815392789182,0.662457175897,Britney Spears,Toxic,"Baby, can't you see I'm calling?
+Why don't they just let me live? (tell me why)",../audio/spectrograms/582250.png,0
+"Baby, can't you see I'm calling?
 A guy like you should wear a warning
 It's dangerous, I'm falling
 
@@ -4926,8 +4926,8 @@ You're toxic, I'm slippin' under
 With a taste of a poison paradise
 I'm addicted to you
 Don't you know that you're toxic?
-And I love what you do",../audio/spectrograms/582252.png
-0.815392789182,0.662457175897,Britney Spears,Oops!...I Did It Again,"Yeah yeah yeah yeah yeah
+And I love what you do",../audio/spectrograms/582252.png,0
+"Yeah yeah yeah yeah yeah
 Yeah yeah yeah yeah yeah yeah
 
 I think I did it again
@@ -4944,8 +4944,8 @@ I played with your heart, got lost in the game
 Oh baby, baby
 Oops, you think I'm in love
 That I'm sent from above
-I'm not that innocent",../audio/spectrograms/582254.png
-0.815392789182,0.662457175897,Britney Spears,(You Drive Me) Crazy (The Stop Remix!),"Crazy
+I'm not that innocent",../audio/spectrograms/582254.png,0
+"Crazy
 Oh, oh
 
 Baby, I'm so into you
@@ -4961,8 +4961,8 @@ I'm so excited, I'm in too deep
 Whoa, Crazy, but it feels alright
 Baby, thinkin' of you keeps me up all night
 
-Tell me, you're so into me",../audio/spectrograms/582258.png
-1.54125682076,1.70416465317,Britney Spears,Lucky,"This is a story about a girl named Lucky
+Tell me, you're so into me",../audio/spectrograms/582258.png,0
+"This is a story about a girl named Lucky
 
 Early morning, she wakes up
 Knock, knock, knock on the door
@@ -4977,8 +4977,8 @@ She's so lucky, she's a star
 But she cry-cry-cries in her lonely heart, thinking
 If there's nothing missing in my life
 Then why do these tears come at night?
-",../audio/spectrograms/582261.png
-0.225969365046,0.631728341762,Britney Spears,Born To Make You Happy,"Oh, my love
+",../audio/spectrograms/582261.png,0
+"Oh, my love
 Oh, yeah
 Oh, yeah
 
@@ -5002,8 +5002,8 @@ That's the way our life should be
 I don't know how to live without your love
 I was born to make you happy
 
-I know I've been a fool since you've been gone",../audio/spectrograms/582264.png
--1.40040267563,1.5382289488299998,Britney Spears,Do Somethin',"Do you feel this?
+I know I've been a fool since you've been gone",../audio/spectrograms/582264.png,0
+"Do you feel this?
 I know you feel this
 Are you ready?
 I don't think so
@@ -5029,8 +5029,8 @@ Like I got what you need
 Get up out of your seat
 Why don't you do somethin'?
 
-Now you all in my grill",../audio/spectrograms/582269.png
-0.815392789182,0.662457175897,Britney Spears,Stronger,"Ooh hey, yeah
+Now you all in my grill",../audio/spectrograms/582269.png,1
+"Ooh hey, yeah
 
 Hush, just stop
 There's nothing you can do or say, baby
@@ -5044,8 +5044,8 @@ My loneliness ain't killing me no more
 I, I'm stronger
 
 Than I ever thought that I could be, baby
-I used to go with the flow",../audio/spectrograms/582285.png
-0.722613176124,-0.0381602424484,Paul Young,Everything Must Change,"Everything Must Change
+I used to go with the flow",../audio/spectrograms/582285.png,0
+"Everything Must Change
 
 I was never one to back out of an argument and say I was wrong,
 Even when I'd seen the other side
@@ -5064,8 +5064,8 @@ Everything must change
 
 In the same way when we disagree
 I woudn't be the one to back down
-Still I'd know that you had faith in me",../audio/spectrograms/582314.png
-1.0719011311700002,0.8468301807240001,Paul Young,Come Back And Stay,"Since you've been gone
+Still I'd know that you had faith in me",../audio/spectrograms/582314.png,3
+"Since you've been gone
 I shut my eyes and I fantasize
 That you're here with me
 Will you ever return
@@ -5081,8 +5081,8 @@ Come back and stay for good this time
 Come back and stay for good this time
 You said goodbye
 
-I was trying to hide what I felt inside",../audio/spectrograms/582418.png
-0.3733252210800001,-0.923150665621,Matisyahu,Indestructible,"Fear nobody but His Majesty
+I was trying to hide what I felt inside",../audio/spectrograms/582418.png,0
+"Fear nobody but His Majesty
 My spirit, you retrieved
 For you I wait silently
 It seems that you believe in me
@@ -5115,8 +5115,8 @@ My spirit, you retrieved
 For you I wait silently
 (His majesty)
 It seems that you believe in me
-",../audio/spectrograms/583608.png
-0.3733252210800001,-0.923150665621,Matisyahu,Ancient Lullaby,"Mist rising on the horizon
+",../audio/spectrograms/583608.png,3
+"Mist rising on the horizon
 Listenin' with my ears and listenin' with my eyes and
 Listenin' until we've ridden the mud from the parasite
 Listenin' until our hearts start to glisten, realize
@@ -5126,8 +5126,8 @@ Close to the broken-heart, them crushed in spirit
 Redeem the soul of your servant
 Seek his, pursue it
 Keep the sparkle in your eyes
-Oh you know, we're not gon die",../audio/spectrograms/583624.png
-1.30112135166,1.4952085810299998,Living Things,Bom Bom Bom,"We're gonna wake this city tonight
+Oh you know, we're not gon die",../audio/spectrograms/583624.png,3
+"We're gonna wake this city tonight
 Oh, watch it burn into the twilight
 I said hey, hey, hey this is our birthright
 To be bought and sold, shipped off ready to die, we're ready to fight
@@ -5141,13 +5141,13 @@ I can't drink or drive a tank at nineteen
 So I set off to join the U.S. Army
 The first time I left my country
 I felt the desert sand marchin' under my feet, come march with me
-",../audio/spectrograms/583702.png
-1.0719011311700002,0.8468301807240001,Spagna,Call Me,"Hey how long I've been waitin' for a love so tender
+",../audio/spectrograms/583702.png,0
+"Hey how long I've been waitin' for a love so tender
 Hey hey hey how long can I stay without your touch I wonder
 You you you you tell me you can ever know oh loneliness
 Hey my love no no don't leave me on my own please
-Call me call me",../audio/spectrograms/584172.png
-1.54671444505,2.11900391403,Anti-Flag,I'd Tell You But...,"Your invasion was a crime
+Call me call me",../audio/spectrograms/584172.png,0
+"Your invasion was a crime
 Your (see through) righteous explanations lies
 Kicking in our doors, raids at night
 Won't win our heart, you've lost your minds
@@ -5158,8 +5158,8 @@ Keep it for your united states
 I'd tell you all these things but I can't speak because...
 
 I'm dead, I'm dead
-My life is life no more",../audio/spectrograms/584938.png
-0.815392789182,0.662457175897,Anti-Flag,The Press Corpse,"The memo says
+My life is life no more",../audio/spectrograms/584938.png,0
+"The memo says
 We gotta work to make the facts fit the false charges
 Pull the wool over the eyes of the filthy masses
 Stab the people in the back for the corporate choice
@@ -5181,8 +5181,8 @@ They wanna tiptoe, walk around it
 Wave the flag and mindlessly salute
 They don't want to talk about it
 They wanna tiptoe, walk around it
-Wave the flag and cowardly salute",../audio/spectrograms/584941.png
-1.01368647199,0.935943799727,Anti-Flag,This Is The End (For You My Friend),"Seems every station on the TV
+Wave the flag and cowardly salute",../audio/spectrograms/584941.png,0
+"Seems every station on the TV
 Is selling something no one can be
 If every page was torn from the magazine
 Would cash still drive the media machine?
@@ -5196,8 +5196,8 @@ I can't forgive, I won't forget
 On and on, we sing our songs and
 On and on, the wars wage on and
 On and on, we sing our songs for more
-",../audio/spectrograms/584951.png
--0.665442603553,-0.044306009279,Survivor,The Search Is Over,"How can I convince you
+",../audio/spectrograms/584951.png,0
+"How can I convince you
 What you see is real
 Who am I to blame you
 For doubting what you feel
@@ -5217,8 +5217,8 @@ I can see forever
 The search is over
 You were with me all the while
 
-Can we last forever",../audio/spectrograms/585272.png
-1.0719011311700002,0.8468301807240001,Gary Puckett & The Union Gap,Over You,"From the moment that we met
+Can we last forever",../audio/spectrograms/585272.png,2
+"From the moment that we met
 I knew that we would connect
 Your eyes had told me that some how
 We shared your history
@@ -5234,15 +5234,15 @@ Without you in my life
 And i
 Dont think
 That i can face the pain
-And never see your face again (i close my eyes and wonder when)",../audio/spectrograms/585624.png
--1.04019947199,-0.06581619317250001,Johnny Mathis,99 Miles From L.A.,"Keeping my eyes on the road I see you,
+And never see your face again (i close my eyes and wonder when)",../audio/spectrograms/585624.png,0
+"Keeping my eyes on the road I see you,
 Keeping my hands on the wheel I hold you,
 Ninety-nine miles from L.A.
 I kiss you, I miss you,
 Please be there.
 
-Passing a white sandy beach we're sailing,",../audio/spectrograms/585867.png
--1.9352498567900005,-0.655809808621,Andy Williams,Do You Hear What I Hear?,"Do you hear what I hear?
+Passing a white sandy beach we're sailing,",../audio/spectrograms/585867.png,2
+"Do you hear what I hear?
 (Hear what I hear, hear what I hear?)
 Said the night wind to the little lamb
 Do you see what I see? (do you see what I see?)
@@ -5251,8 +5251,8 @@ Do you see what I see? (do you see what I see?)
 A star, a star, dancing in the night
 With a tail as big as a kite
 With a tail as big as a kite
-Said the little lamb to the shepherd boy",../audio/spectrograms/585927.png
-0.893618737445,-0.443780853069,The Isley Brothers,Summer Breeze,"Ah-ha-ha, yeah
+Said the little lamb to the shepherd boy",../audio/spectrograms/585927.png,2
+"Ah-ha-ha, yeah
 Summer breeze, all in my mind
 Ah-ha, yeah
 Summer breeze, all in my mind
@@ -5265,8 +5265,8 @@ Blowing through the jasmine in my mind
 Summer breeze makes me feel fine
 Blowing through the jasmine in my mind, all in my mind
 
-See the curtains hanging in the window",../audio/spectrograms/586048.png
-1.0719011311700002,0.8468301807240001,Jessica Simpson,Sweetest Sin,"Ohh, yea
+See the curtains hanging in the window",../audio/spectrograms/586048.png,3
+"Ohh, yea
 Can you imagine us makin' love?
 The way it feel the first time that we touch
 Can you think of it the way I dream of it
@@ -5285,8 +5285,8 @@ Yea
 All night I lay awake
 'Cause it's too much to take
 Dreamin' about the love that we can make
-All day I think of schemes",../audio/spectrograms/587086.png
-0.919087650836,-0.6327631830170001,Jessica Simpson,Take My Breath Away,"Watchin' every motion
+All day I think of schemes",../audio/spectrograms/587086.png,0
+"Watchin' every motion
 In this foolish lovers game
 On this endless ocean
 Finally lovers know no shame
@@ -5299,8 +5299,8 @@ My love
 Take my breath away
 Take my breath away
 
-Watchin' I keep waiting",../audio/spectrograms/587104.png
-0.909991610338,0.48115705448,Jessica Simpson,With You,"The real me is a southern girl
+Watchin' I keep waiting",../audio/spectrograms/587104.png,3
+"The real me is a southern girl
 With her Levi's on and an open heart
 Wish I could save the world
 Like I was Supergirl
@@ -5323,8 +5323,8 @@ I never felt so beautiful
 Baby as I do now
 Now that I'm with you
 (With you, with you, with you)
-",../audio/spectrograms/587110.png
-1.17832480497,1.18331091453,The Jacksons,Can You Feel It,"Can you feel it, can you feel it, can you feel it?
+",../audio/spectrograms/587110.png,0
+"Can you feel it, can you feel it, can you feel it?
 If you look around
 The whole world is coming together now, yeah
 Can you feel it, can you feel it, can you feel it?
@@ -5341,16 +5341,16 @@ Take my message to your brother and tell him twice
 Spread the word and try to teach the man
 Who is hating his brother, when hate won't do ooh
 
-'Cause we're all the same",../audio/spectrograms/587381.png
--1.04019947199,-0.06581619317250001,Emily Jane White,Time On Your Side,"He drives a truck
+'Cause we're all the same",../audio/spectrograms/587381.png,0
+"He drives a truck
 And he makes Time On Your Side
 The water splashes from his flaps for miles
 And 3 am on the I5 in the dark
 As he moves away
 
 Not much to do
-When you've got Time On Your Side",../audio/spectrograms/587881.png
--0.914674113143,-0.227142572397,Jeff Buckley,Grace,"There's the moon asking to stay
+When you've got Time On Your Side",../audio/spectrograms/587881.png,2
+"There's the moon asking to stay
 Long enough for the clouds to fly me away
 Oh, it's my time coming, I'm not afraid, afraid to die
 
@@ -5363,8 +5363,8 @@ Wait in the fire
 
 Wait in the fire
 Wait in the fire
-Fire",../audio/spectrograms/594793.png
--0.8164368757870001,-0.524444042681,Ozzy Osbourne,Dreamer,"Gazing through the window at the world outside
+Fire",../audio/spectrograms/594793.png,2
+"Gazing through the window at the world outside
 Wondering will mother earth survive
 Hoping that mankind will stop abusing her
 Sometime
@@ -5380,8 +5380,8 @@ I'm just a dreamer
 Who dreams of better days
 
 I watch the sun go down like everyone of us
-I'm hoping that the dawn will bring a sign",../audio/spectrograms/594872.png
-0.3733252210800001,-0.923150665621,Sweetback,Lover,"Don't know where you are
+I'm hoping that the dawn will bring a sign",../audio/spectrograms/594872.png,2
+"Don't know where you are
 How near or how far
 Willing to go
 It's time for the show
@@ -5410,16 +5410,16 @@ Baby, look at my face
 No one can lie like a lover
 
 All of my life
-It's all in my guy, yeah",../audio/spectrograms/594914.png
-0.766274170504,-2.11235654676,Ozzy Osbourne,In My Life,"There are places I'll remember
+It's all in my guy, yeah",../audio/spectrograms/594914.png,3
+"There are places I'll remember
 All my life, though some have changed
 Some forever not for better
 Some have gone and some remain
 
 All these places have their moments
 With lovers and friends I still can recall
-Some are dead and some are living",../audio/spectrograms/594925.png
-0.815392789182,0.662457175897,Miranda Lambert,Kerosene,"I'm waitin' on the sun to set
+Some are dead and some are living",../audio/spectrograms/594925.png,3
+"I'm waitin' on the sun to set
 'Cause yesterday ain't over yet
 I started smoking cigarettes
 There's nothing else to do I guess
@@ -5430,8 +5430,8 @@ I'm giving up on love 'cause love's given up on me
 
 I gave it everything I had
 And everything I got was bad
-Life ain't hard but it's too long",../audio/spectrograms/595160.png
-0.3733252210800001,-0.923150665621,MercyME,I Can Only Imagine,"I can only imagine
+Life ain't hard but it's too long",../audio/spectrograms/595160.png,0
+"I can only imagine
 What it will be like
 When I walk by your side
 I can only imagine
@@ -5450,8 +5450,8 @@ Will I sing hallelujah
 Will I be able to speak at all
 I can only imagine
 I can only imagine
-",../audio/spectrograms/595209.png
-0.815392789182,0.662457175897,Miranda Lambert,New Strings,"I bet this road will take me out of here
+",../audio/spectrograms/595209.png,3
+"I bet this road will take me out of here
 Take me far away from Amarillo
 I bet this car will go real fast
 The wheels might even drive me past
@@ -5465,8 +5465,8 @@ Don't leave much room for a girl like me to be
 So I'll fill her up with hope and worn out dreams
 
 And I'll grab the wheel and I'll point it west
-Pack the good and leave the rest",../audio/spectrograms/595407.png
-0.815392789182,0.662457175897,Miranda Lambert,Me And Charlie Talking,"Me and Charlie boy used to go walking
+Pack the good and leave the rest",../audio/spectrograms/595407.png,0
+"Me and Charlie boy used to go walking
 Sittin' in the woods behind my house
 When being lovers meant a stolen kiss
 And holding hands with nobody else around
@@ -5481,8 +5481,8 @@ Like it only gets to shine for a little while
 Catch it in a mason jar with holes in the top
 And run like hell to show it off
 
-Oh promises we made when we go walkin'",../audio/spectrograms/595410.png
-1.28474847877,-0.969243916828,Jane Monheit,Bill,"I used to dream that I'd discover
+Oh promises we made when we go walkin'",../audio/spectrograms/595410.png,0
+"I used to dream that I'd discover
 The perfect lover someday
 I knew I'd recognize him
 If ever he came 'round my way
@@ -5493,8 +5493,8 @@ Like the heroes bold in the books I read
 
 But along came Bill
 Who's not the type at all
-You'ld meet him on the street and never notice him",../audio/spectrograms/595451.png
-0.116816879095,-0.658114471181,John Mayer,Quiet,"Midnight
+You'ld meet him on the street and never notice him",../audio/spectrograms/595451.png,3
+"Midnight
 Lock all the doors
 And turn out the lights
 Feels like the end of the world
@@ -5502,8 +5502,8 @@ This Sunday night
 
 There's not a sound
 Outside the snow's coming down
-And somehow I can't seem to find",../audio/spectrograms/595709.png
-0.3733252210800001,-0.923150665621,Omarion,O,"Woah, let me tell you girl
+And somehow I can't seem to find",../audio/spectrograms/595709.png,3
+"Woah, let me tell you girl
 Woah oh
 Hey, here I go, here I go
 
@@ -5541,8 +5541,8 @@ Let me hear you scream Oh
 Girl come on over and
 Let's get this thing cracking
 You'll be surprised when
-You see what O's I'm packing",../audio/spectrograms/595725.png
--0.382555744131,-0.199486621673,Mariah Carey,Without You,"No, I can't forget this evening
+You see what O's I'm packing",../audio/spectrograms/595725.png,3
+"No, I can't forget this evening
 Or your face as you were leaving
 But I guess that's just the way the story goes
 You always smile, but in your eyes your sorrow shows
@@ -5555,8 +5555,8 @@ And now it's only fair that I should let you know
 What you should know
 
 I can't live
-If living is without you",../audio/spectrograms/595920.png
-0.07315588471460001,-0.38155496394,Mariah Carey,Anytime You Need A Friend,"If you're lonely
+If living is without you",../audio/spectrograms/595920.png,2
+"If you're lonely
 And need a friend
 And troubles seem like
 They never end
@@ -5580,8 +5580,8 @@ Just remember, you're not alone
 And love will be there
 To guide you home, oh
 
-Anytime you need a friend",../audio/spectrograms/595923.png
--1.04019947199,-0.06581619317250001,Five for Fighting,Maybe I,"You were right
+Anytime you need a friend",../audio/spectrograms/595923.png,3
+"You were right
 You came over me
 What'd never been before
 You slid under my door, and now I find
@@ -5595,8 +5595,8 @@ Honey... surely one of us is crazy
 
 (Maybe I) Maybe I... I'm not so easily stung
 (Maybe I) Maybe I... I got some love for someone
-(Maybe I) Maybe I... I'm not the story for you",../audio/spectrograms/595997.png
-0.3733252210800001,-0.923150665621,Mariah Carey,Vision Of Love,"Treated me kind
+(Maybe I) Maybe I... I'm not the story for you",../audio/spectrograms/595997.png,2
+"Treated me kind
 Sweet destiny
 Carried me through desperation
 To the one that was waitin' for me
@@ -5614,8 +5614,8 @@ Felt so alone
 Suffered from alienation
 Carried the weight on my own
 
-Had to be strong",../audio/spectrograms/596011.png
--0.0614655146269,-0.71419459348,Mariah Carey,I'll Be There,"You and I must make a pact
+Had to be strong",../audio/spectrograms/596011.png,3
+"You and I must make a pact
 We must bring salvation back
 Where there is love, I'll be there
 
@@ -5629,8 +5629,8 @@ I'm so glad that I found you
 I'll be there with a love that's strong
 I'll be your strength
 You know I'll keep holdin' on
-",../audio/spectrograms/596012.png
--0.429855154712,-0.7065123849480001,Mariah Carey,Hero,"There's a hero
+",../audio/spectrograms/596012.png,2
+"There's a hero
 If you look inside your heart
 You don't have to be afraid
 Of what you are
@@ -5647,8 +5647,8 @@ So when you feel like hope is gone
 Look inside you and be strong
 And you'll finally see the truth
 That a hero lies in you
-",../audio/spectrograms/596015.png
-1.11192370935,0.985109934345,Mariah Carey,Fantasy,"Oh, when you walk by every night
+",../audio/spectrograms/596015.png,2
+"Oh, when you walk by every night
 Talking sweet and looking fine
 I get kinda hectic inside
 Mmm, baby I'm so into you
@@ -5665,8 +5665,8 @@ Images of rapture
 Creep into me slowly
 As you're go into my head
 And my heart beats faster
-When you take me over",../audio/spectrograms/596023.png
-0.722613176124,-0.0381602424484,Mariah Carey,Always Be My Baby,"Do do doop dum
+When you take me over",../audio/spectrograms/596023.png,0
+"Do do doop dum
 Do do doop do doop da dum
 Do do doop dum
 Do do doop do doop da dum
@@ -5694,8 +5694,8 @@ No way you're never gonna shake me
 Oh darlin' cause you'll always be my baby
 
 Do do doop
-Do do doop do doop da dum",../audio/spectrograms/596030.png
--0.163341168178,-0.244043431169,Mariah Carey,My All,"I'm thinking of you
+Do do doop do doop da dum",../audio/spectrograms/596030.png,3
+"I'm thinking of you
 In my sleepless solitude tonight
 If it's wrong to love you
 Then my heart just won't let me be right
@@ -5707,8 +5707,8 @@ Just one more night with you
 I'd risk my life to feel
 Your body next to mine
 'Cause I can't go on
-Livin' in the memory of our song",../audio/spectrograms/596046.png
--0.871013118762,0.370533251583,Mariah Carey,I Still Believe,"You look in my eyes and I get emotional, inside
+Livin' in the memory of our song",../audio/spectrograms/596046.png,2
+"You look in my eyes and I get emotional, inside
 I know it's crazy but, you still can touch my heart
 And after all this time., you think that I, wouldn't feel the same
 But time melts into nothing and nothing's changed
@@ -5719,8 +5719,8 @@ I had a dream
 Someday you and me will find ourselves In love again
 
 Each day of my life, I'm filled with all the joy I could find
-You know that I, I'm not the desperate type",../audio/spectrograms/596063.png
-0.957291020918,0.390506993776,Planet Funk,The Switch,"Can you see me switchin on?
+You know that I, I'm not the desperate type",../audio/spectrograms/596063.png,1
+"Can you see me switchin on?
 
 Could you push your button?
 Could you feel that switch?
@@ -5732,8 +5732,8 @@ Can you keep on pressing,
 When you hear the click?
 
 Can you see me comin' on?
-(See me switchin', see me switchin')",../audio/spectrograms/596430.png
--1.04019947199,-0.06581619317250001,Brian Mcfadden,Irish Son,"I was born in the heart of Dublin
+(See me switchin', see me switchin')",../audio/spectrograms/596430.png,0
+"I was born in the heart of Dublin
 To a holy book full of rules
 Made get on our knees every Sunday
 With the other fools
@@ -5751,8 +5751,8 @@ Bowed before your lies
 This is the city that raised me
 With the religion they gave me
 Now I'm old enough to know my own mind
-But it was leaving that saved me",../audio/spectrograms/596658.png
-1.0719011311700002,0.8468301807240001,Brian Mcfadden,Be True To Your Woman,"I was talking last night
+But it was leaving that saved me",../audio/spectrograms/596658.png,2
+"I was talking last night
 To a friend who was thinking he might
 Risk it all for a moment of lust
 And adventure, so I told him
@@ -5765,8 +5765,8 @@ If it's over, you got nothing
 Well, I've been there
 The grass was just fine on this side
 Because I've been there
-There's no getting back on that ride",../audio/spectrograms/596659.png
--1.9352498567900005,-0.655809808621,Brian Mcfadden,Sorry Love Daddy,"It seems like only yesterday
+There's no getting back on that ride",../audio/spectrograms/596659.png,0
+"It seems like only yesterday
 I held you in my arms and said
 You will never need to fear the dark
 
@@ -5780,8 +5780,8 @@ To live this through
 
 Someday you'll learn to understand
 This wasn't what I planned
-For me and you",../audio/spectrograms/596982.png
--0.943326640705,-0.0519882178105,Brian Mcfadden,Demons,"Have you ever been lost in a different world?
+For me and you",../audio/spectrograms/596982.png,2
+"Have you ever been lost in a different world?
 Where everything you once knew is gone
 And you find yourself powerless
 With everything that exists, you're numb
@@ -5795,8 +5795,8 @@ Try to talk but the words are just not there
 I can feel a sense of danger
 You stare at me like I'm a stranger
 Paralyzed and you don't seem to care
-The demons in my dreams",../audio/spectrograms/597011.png
-0.722613176124,-0.0381602424484,Mario,Let Me Love You,"Mmm, uh, mmm, yeah
+The demons in my dreams",../audio/spectrograms/597011.png,2
+"Mmm, uh, mmm, yeah
 Mmm-mmm, yeah, yeah, yeah
 Mmm, uh, mmm-mmm, yeah
 Mmm-mmm, yeah, yeah
@@ -5822,13 +5822,13 @@ Baby, good love and protection
 Make me your selection
 Show you the way love's supposed to be
 Baby you should let me love you, love you, love you, love you, yeah
-Listen",../audio/spectrograms/597166.png
-0.815392789182,0.662457175897,Artie Shaw and his orchestra,Begin The Beguine,"[G]
+Listen",../audio/spectrograms/597166.png,3
+"[G]
 Listen poor sinner; you're driftin' away >From the Dear Saviour; who's pleading to-
 [D]
 Day
-[G]",../audio/spectrograms/597189.png
-0.526138701412,-1.62837740909,The Zutons,Confusion,"It's funny how it tears me apart
+[G]",../audio/spectrograms/597189.png,0
+"It's funny how it tears me apart
 Well, first it breaks your head then your heart
 I should've loved you better
 From the start
@@ -5838,8 +5838,8 @@ It's workin' through the flesh that remains
 Why can't this feelin' leave me
 And just fade away?
 
-From day one, I led you on",../audio/spectrograms/597801.png
-0.3733252210800001,-0.923150665621,Mobb Deep,Win Or Lose,"Here I go again, whether I win or lose
+From day one, I led you on",../audio/spectrograms/597801.png,3
+"Here I go again, whether I win or lose
 Whether I win or lose
 
 Another day another dollar it's about gettin' money
@@ -5857,8 +5857,8 @@ Body charges, pay lawyers so we beat those
 But get locked and I'm sluttin' lady C.O.'s
 And we the only niggaz you know, that fuck they P.O.'s
 They push our files to the top, you still on parole
-We got, money to roll, no time for penitentiaries",../audio/spectrograms/597899.png
-1.0719011311700002,0.8468301807240001,John Legend,Stay With You,"We've been together for a while now
+We got, money to roll, no time for penitentiaries",../audio/spectrograms/597899.png,3
+"We've been together for a while now
 We're growing stronger everyday now
 It feels so good and there is no doubt
 I will stay with you as each morning brings sunrise
@@ -5874,4 +5874,4 @@ I know we'll be alright
 I will stay with you
 Ooooh, ooooh
 
-Though relationships can get old",../audio/spectrograms/598057.png
+Though relationships can get old",../audio/spectrograms/598057.png,0
