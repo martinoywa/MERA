@@ -133,3 +133,5 @@ dmypy.json
 
 # project specific
 audio/spectrograms/
+data/
+models/
