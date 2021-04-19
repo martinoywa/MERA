@@ -50,10 +50,13 @@ def train(number_epochs, model_version):
             loss.backward()
             optimizer.step()
 
-            train_loss += loss.item()
+            train_loss += loss.item()*inputs.size(0)
 
-            print('[%d, %5d] loss: %.3f' % (epoch + 1, i + 1, train_loss))
-            train_loss = 0.0
+        # print training statistics
+        # calculate average loss over an epoch
+        train_loss = train_loss / len(trainloader.dataset)
+
+        print('Epoch: {} \tTraining Loss: {:.6f}'.format(epoch + 1, train_loss))
 
     print('Finished Training')
     torch.save(model.state_dict(), 'model'+model_version)
@@ -72,11 +75,14 @@ def test(model_weights):
     outputs = model(inputs)
     _, preds = torch.max(outputs, dim=1)
 
-    print(outputs)
-    print(f'{preds, labels}')
+    print(f'{preds}\n'
+          f'{labels}')
 
 
 if __name__ == '__main__':
-    number_epochs = 2
-    model_version = '-0.0.1'
+    number_epochs = 30
+    model_version = '-0.0.2'
     train(number_epochs, model_version)
+
+    model_weights = "model" + model_version
+    test(model_weights)
