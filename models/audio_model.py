@@ -42,5 +42,5 @@ class AudioNN(nn.Module):
 
 class Flatten(nn.Module):
     def forward(self, x):
-        print(x.shape)
+        # print(x.shape)
         return x.view(x.size(0), -1)
