@@ -131,7 +131,7 @@ dmypy.json
 # PyCharm
 .idea/
 
-# project specific
+# Project specific
 audio/spectrograms/
 data/train/
-models/model*
+models/weights/
