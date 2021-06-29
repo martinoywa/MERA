@@ -7,17 +7,19 @@ from scipy.io import wavfile
 from tempfile import mktemp
 
 
+# configuration options
 ydl_opts = {
-        'format': 'worstaudio/worst',
-        'postprocessors': [{
-            'key': 'FFmpegExtractAudio',
-            'preferredcodec': 'mp3',
-            'preferredquality': '192',
-        }],
-        'postprocessor_args': [
-            '-ac', '1' # mono channel
-        ],
-    } # configuration options
+    'format': 'worstaudio/worst',
+    'postprocessors': [{
+        'key': 'FFmpegExtractAudio',
+        'preferredcodec': 'mp3',
+        'preferredquality': '192',
+    }],
+    'postprocessor_args': [
+        '-ac', '1'  # mono channel
+    ],
+}
+
 
 def create_spectrogram(id, track, artist):
     """
@@ -36,8 +38,8 @@ def create_spectrogram(id, track, artist):
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([link])
 
-    souce = os.listdir()
-    for file in souce:
+    source = os.listdir()
+    for file in source:
         if file.endswith(".mp3"):
             print(file)
             mp3_audio = AudioSegment.from_file(file, format="mp3")  # read mp3
