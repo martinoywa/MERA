@@ -25,11 +25,3 @@ def lyrics_finder(out_format, callback, track, artist, apikey):
     lyrics = content["message"]["body"]
 
     return status, lyrics
-
-
-# # EXAMPLE:
-# if __name__ == "__main__":
-#     status_code, lyrics = lyrics_finder("jsonp", "callback", "Bleeding Love", "Leona Lewis",
-#                                         SECRET_KEY)
-#     # print(status_code)
-#     print(lyrics)
