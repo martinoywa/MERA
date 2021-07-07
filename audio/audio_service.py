@@ -21,13 +21,14 @@ ydl_opts = {
 }
 
 
-def create_spectrogram(id, track, artist):
+def create_spectrogram(id, track, artist, path):
     """
     Finds songs on YouTube using track and artist name then
     saves the song's spectrogram.
     :param id: Deezer Song ID
     :param track: The song name
     :param artist: The song artist
+    :param path: path to store downloaded spectrograms
     :return: song spectrogram
     """
 
@@ -53,7 +54,7 @@ def create_spectrogram(id, track, artist):
             plt.yticks([])
 
             # save the spectrogram
-            plt.savefig(f"spectrograms/{id}", dpi=300)
+            plt.savefig(f"{path}/{id}", dpi=300)
             plt.close()
             os.remove(file)
             break
