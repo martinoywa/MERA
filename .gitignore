@@ -132,6 +132,8 @@ dmypy.json
 .idea/
 
 # Project specific
-audio/spectrograms/
+audio/spectrogram/
 data/train/
-models/weights/
+data/test/
+data/validation/
+*.pt
