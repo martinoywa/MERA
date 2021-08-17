@@ -12,7 +12,7 @@ import numpy as np
 
 # configuration options
 ydl_opts = {
-    'format': 'worstaudio/worst',
+    'format': 'bestaudio/best',
     'postprocessors': [{
         'key': 'FFmpegExtractAudio',
         'preferredcodec': 'mp3',
