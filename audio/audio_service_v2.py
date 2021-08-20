@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 
+import shutil
+
 
 # configuration options
 ydl_opts = {
@@ -43,6 +45,7 @@ transformer = torchaudio.transforms.MelSpectrogram(
 
 # mix down or convert to mono channel
 def mix_down_if_necessary(signal):
+    # stereo [2, 128, 1024]
     if signal.shape[0] > 1:
         signal = torch.mean(signal, dim=0, keepdim=True)
     return signal
@@ -103,7 +106,10 @@ def create_mel_spectrogram(id, track, artist, path):
 
             # save the mel spectrogram
             plt.imsave(f"{path}/{id}.png", librosa.power_to_db(signal[0].numpy(), ref=np.max), origin="lower", format='png')
-            plt.savefig(f"{path}/{id}", dpi=300)
             plt.close()
-            os.remove(file)
+
+            try:
+                shutil.move(file, "/home/martinoywa/Music/Project/")
+            except:
+                pass
             break
