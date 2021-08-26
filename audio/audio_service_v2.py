@@ -93,23 +93,26 @@ def create_mel_spectrogram(id, track, artist, path):
         ydl.download([link])
 
     source = os.listdir()
+    # rename file to match song id
     for file in source:
-        if file.endswith(".mp3"):
-            print(file)
-            signal, sr = torchaudio.load(file)
+        if file.endswith(res[0]["id"] + ".mp3"):
+            os.rename(file, str(id)+".mp3")
 
-            signal = mix_down_if_necessary(signal)
-            signal = resample_if_necessary(signal, sr)
-            signal = cut_if_necessary(signal)
-            signal = right_pad_if_necessary(signal)
-            signal = transformer(signal)
+    # find song by id and save mel spectrogram
+    file = str(id)+".mp3"
+    signal, sr = torchaudio.load(file)
 
-            # save the mel spectrogram
-            plt.imsave(f"{path}/{id}.png", librosa.power_to_db(signal[0].numpy(), ref=np.max), origin="lower", format='png')
-            plt.close()
+    signal = mix_down_if_necessary(signal)
+    signal = resample_if_necessary(signal, sr)
+    signal = cut_if_necessary(signal)
+    signal = right_pad_if_necessary(signal)
+    signal = transformer(signal)
 
-            try:
-                shutil.move(file, "/home/martinoywa/Music/Project/")
-            except:
-                pass
-            break
+    # save the mel spectrogram
+    plt.imsave(f"{path}/{id}.png", librosa.power_to_db(signal[0].numpy(), ref=np.max), origin="lower", format='png')
+    plt.close()
+
+    try:
+        shutil.move(file, "/home/martinoywa/Music/Project/")
+    except:
+        pass
