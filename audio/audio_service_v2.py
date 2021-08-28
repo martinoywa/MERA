@@ -15,6 +15,7 @@ import shutil
 # configuration options
 ydl_opts = {
     'format': 'bestaudio/best',
+    'max-filesize': '20M',
     'postprocessors': [{
         'key': 'FFmpegExtractAudio',
         'preferredcodec': 'mp3',
@@ -23,8 +24,8 @@ ydl_opts = {
 }
 
 # parameters
-SAMPLE_RATE = 44100
-NFFT = 1024
+SAMPLE_RATE = 22050
+NFFT = 2048
 HL = 512
 MELS = 128
 NUMBER_OF_SAMPLES = 200000
@@ -87,29 +88,37 @@ def create_mel_spectrogram(id, track, artist, path):
 
     search_name = track + " by " + artist
     res = YoutubeSearch(search_name, max_results=1).to_dict()
-    link = "https://www.youtube.com" + res[0]["url_suffix"]
 
-    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-        ydl.download([link])
+    # only download if both track and artist name in res title
+    if track in res[0]["title"] and artist in res[0]["title"]:
+        link = "https://www.youtube.com" + res[0]["url_suffix"]
 
-    source = os.listdir()
-    for file in source:
-        if file.endswith(".mp3"):
-            print(file)
-            signal, sr = torchaudio.load(file)
+        with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([link])
 
-            signal = mix_down_if_necessary(signal)
-            signal = resample_if_necessary(signal, sr)
-            signal = cut_if_necessary(signal)
-            signal = right_pad_if_necessary(signal)
-            signal = transformer(signal)
+        source = os.listdir()
+        # rename file to match song id
+        for file in source:
+            if file.endswith(res[0]["id"] + ".mp3"):
+                os.rename(file, str(id)+".mp3")
 
-            # save the mel spectrogram
-            plt.imsave(f"{path}/{id}.png", librosa.power_to_db(signal[0].numpy(), ref=np.max), origin="lower", format='png')
-            plt.close()
+        # find song by id and save mel spectrogram
+        file = str(id)+".mp3"
+        signal, sr = torchaudio.load(file)
 
-            try:
-                shutil.move(file, "/home/martinoywa/Music/Project/")
-            except:
-                pass
-            break
+        signal = mix_down_if_necessary(signal)
+        signal = resample_if_necessary(signal, sr)
+        signal = cut_if_necessary(signal)
+        signal = right_pad_if_necessary(signal)
+        signal = transformer(signal)
+
+        # save the mel spectrogram
+        plt.imsave(f"{path}/{id}.png", librosa.power_to_db(signal[0].numpy(), ref=np.max), origin="lower", format='png')
+        plt.close()
+
+        try:
+            shutil.move(file, "/home/martinoywa/Music/Project/")
+        except:
+            pass
+    else:
+        pass
