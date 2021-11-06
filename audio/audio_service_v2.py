@@ -117,7 +117,7 @@ def create_mel_spectrogram(id, track, artist, path):
         plt.close()
 
         try:
-            shutil.move(file, "/home/martinoywa/Music/Project/")
+            shutil.move(file, "/home/martinoywa/Music/Project/valid")
         except:
             pass
     else:
