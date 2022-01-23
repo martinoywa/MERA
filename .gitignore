@@ -137,3 +137,6 @@ data/train/
 data/test/
 data/validation/
 *.pt
+*.bin
+glove.840B.300d.txt
+*.csv
