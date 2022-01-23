@@ -132,6 +132,11 @@ dmypy.json
 .idea/
 
 # Project specific
-audio/spectrograms/
+audio/spectrogram/
 data/train/
-models/weights/
+data/test/
+data/validation/
+*.pt
+*.bin
+glove.840B.300d.txt
+*.csv
