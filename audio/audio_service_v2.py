@@ -28,7 +28,7 @@ SAMPLE_RATE = 22050
 NFFT = 2048
 HL = 512
 MELS = 128
-NUMBER_OF_SAMPLES = 200000
+NUMBER_OF_SAMPLES = 88200
 
 # mel spectrogram transformer
 transformer = torchaudio.transforms.MelSpectrogram(
